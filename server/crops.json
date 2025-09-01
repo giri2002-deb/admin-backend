@@ -1,0 +1,156 @@
+[
+  {
+    "crop_code": 1,
+    "name_of_crop": "நெல் (இ)",
+    "rokkam": 31350,
+    "thozhu_uram": 2400,
+    "uram_1": 2400,
+    "uram_2": 4800,
+    "poochi_marundhu": 1300,
+    "vithai": 850,
+    "motham": 38300
+  },
+  {
+    "crop_code": 2,
+    "name_of_crop": "பந்தல் அவரை",
+    "rokkam": 30500,
+    "thozhu_uram": 950,
+    "uram_1": 950,
+    "uram_2": 1900,
+    "poochi_marundhu": 1200,
+    "vithai": 1600,
+    "motham": 35200
+  },
+  {
+    "crop_code": 3,
+    "name_of_crop": "குச்சி - இ",
+    "rokkam": 35350,
+    "thozhu_uram": 2750,
+    "uram_1": 2750,
+    "uram_2": 5500,
+    "poochi_marundhu": 2500,
+    "vithai": 4000,
+    "motham": 47350
+  },
+  {
+    "crop_code": 4,
+    "name_of_crop": "பருத்தி-BT ரகம்",
+    "rokkam": 34600,
+    "thozhu_uram": 1100,
+    "uram_1": 1100,
+    "uram_2": 2200,
+    "poochi_marundhu": 1700,
+    "vithai": 1200,
+    "motham": 39700
+  },
+  {
+    "crop_code": 5,
+    "name_of_crop": "கடலை - மா",
+    "rokkam": 16500,
+    "thozhu_uram": 550,
+    "uram_1": 550,
+    "uram_2": 1100,
+    "poochi_marundhu": 700,
+    "vithai": 3700,
+    "motham": 22000
+  },
+  {
+    "crop_code": 6,
+    "name_of_crop": "கரும்பு நடவு (TI)",
+    "rokkam": 44640,
+    "thozhu_uram": 5600,
+    "uram_1": 5600,
+    "uram_2": 11200,
+    "poochi_marundhu": 1760,
+    "vithai": 10400,
+    "motham": 68000
+  },
+  {
+    "crop_code": 7,
+    "name_of_crop": "மாந்தோப்பு (ப)",
+    "rokkam": 18100,
+    "thozhu_uram": 2275,
+    "uram_1": 2275,
+    "uram_2": 4550,
+    "poochi_marundhu": 3450,
+    "vithai": 0,
+    "motham": 26100
+  },
+  {
+    "crop_code": 8,
+    "name_of_crop": "பருத்தி - மா",
+    "rokkam": 23460,
+    "thozhu_uram": 950,
+    "uram_1": 950,
+    "uram_2": 1900,
+    "poochi_marundhu": 1600,
+    "vithai": 840,
+    "motham": 27800
+  },
+  {
+    "crop_code": 9,
+    "name_of_crop": "தென்னை (ப)",
+    "rokkam": 32200,
+    "thozhu_uram": 2525,
+    "uram_1": 2525,
+    "uram_2": 5050,
+    "poochi_marundhu": 1700,
+    "vithai": 0,
+    "motham": 38950
+  },
+  {
+    "crop_code": 10,
+    "name_of_crop": "வாழை - இ",
+    "rokkam": 59850,
+    "thozhu_uram": 3425,
+    "uram_1": 3425,
+    "uram_2": 6850,
+    "poochi_marundhu": 2800,
+    "vithai": 3550,
+    "motham": 73050
+  },
+  {
+    "crop_code": 11,
+    "name_of_crop": "கடலை - இ",
+    "rokkam": 22800,
+    "thozhu_uram": 1500,
+    "uram_1": 1500,
+    "uram_2": 3000,
+    "poochi_marundhu": 1000,
+    "vithai": 3300,
+    "motham": 30100
+  },
+  {
+    "crop_code": 12,
+    "name_of_crop": "குச்சி - மா",
+    "rokkam": 19050,
+    "thozhu_uram": 2325,
+    "uram_1": 2325,
+    "uram_2": 4650,
+    "poochi_marundhu": 670,
+    "vithai": 2145,
+    "motham": 26515
+  },
+  {
+    "crop_code": 13,
+    "name_of_crop": "சோளம் - இ",
+    "rokkam": 17000,
+    "thozhu_uram": 1000,
+    "uram_1": 1000,
+    "uram_2": 2000,
+    "poochi_marundhu": 800,
+    "vithai": 400,
+    "motham": 20200
+  },
+  {
+    "crop_code": 14,
+    "name_of_crop": "மல்பெரி",
+    "rokkam": 36200,
+    "thozhu_uram": 7000,
+    "uram_1": 7000,
+    "uram_2": 14000,
+    "poochi_marundhu": 1350,
+    "vithai": 6250,
+    "motham": 57800
+  }
+]

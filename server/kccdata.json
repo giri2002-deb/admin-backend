@@ -1,0 +1,3478 @@
+{
+  "exportDate": "2025-08-28T15:37:45.640Z",
+  "kccData": {
+    "members": [
+      {
+        "id": "00f4435d-79d0-40bb-b29a-10a96d478cd9",
+        "serialNo": "1",
+        "memberName": "giri",
+        "fatherName": "ramesh",
+        "category": "பந்தல் அவரை (0.8ac) - ₹28,160",
+        "landArea": 2.471,
+        "farmerType": "MF",
+        "classification": "bc",
+        "aadhaarNo": "123456789101",
+        "accountNo": "1",
+        "phoneNo": "9942692272",
+        "amount": 28160,
+        "date": "2025-08-28",
+        "formSections": {
+          "documents": true,
+          "friendImage": false,
+          "goldDetails": false,
+          "landDetails": true,
+          "loanDetails": true,
+          "ownProperty": false,
+          "friendDetails": true,
+          "userInformation": true
+        },
+        "goldDetails": {
+          "items": [],
+          "hasGold": false,
+          "totalItems": 0,
+          "totalValue": 0,
+          "goldSummary": {
+            "totalCount": 0,
+            "totalTypes": 0,
+            "goldRateUsed": 500,
+            "highestValue": 0,
+            "averageWeight": 0,
+            "netWeightCalculation": "நிகர எடை × தங்க விலை = நிகர தொகை",
+            "totalNetAmountSummary": 0,
+            "totalNetWeightSummary": 0
+          },
+          "marketValue": 500,
+          "totalWeight": 0,
+          "totalNetAmount": 0,
+          "totalNetWeight": 0,
+          "goldItemsDetails": []
+        },
+        "friendDetails": {
+          "acre": "4.46",
+          "name": "tha",
+          "phone": "1234567899",
+          "address": "12",
+          "hasData": true,
+          "uNumber": "12",
+          "hasImage": false,
+          "imageUrl": null,
+          "fatherName": "ramesh",
+          "detailedInfo": {
+            "உ_எண்": "12",
+            "பெயர்": "tha",
+            "படம்_URL": null,
+            "ஏக்கர்": "4.46",
+            "முகவரி": "12",
+            "தகபெயர்": "ramesh",
+            "ஆதார்_எண்": "122222222222",
+            "சர்வே_எண்": "1, 1/302, 1/303",
+            "கைபேசி_எண்": "1234567899"
+          },
+          "surveyNumber": "1, 1/302, 1/303",
+          "aadhaarNumber": "122222222222"
+        },
+        "ownProperty": {
+          "value": 0,
+          "description": "",
+          "hasProperty": false,
+          "hasPropertyData": false,
+          "mortgageDetails": {
+            "a": "",
+            "ca": "",
+            "extent": "",
+            "village": "",
+            "irrigation": "",
+            "mortgageReg": "",
+            "surveyNumber": "",
+            "guidanceValue": 0,
+            "mortgageAmount": 0,
+            "hasMortgageData": false,
+            "registrarOffice": ""
+          },
+          "propertySummary": {
+            "totalValue": 0,
+            "guidanceValue": 0,
+            "mortgageValue": 0,
+            "hasDescription": false,
+            "hasMortgageDetails": false
+          }
+        },
+        "documents": {
+          "pan": {
+            "file": {},
+            "preview": "http://localhost:5000/uploads/file-1756373472414-322225185.jpg",
+            "uploaded": true
+          },
+          "voter": {
+            "file": null,
+            "preview": "http://localhost:5000/uploads/file-1756373476546-223115542.jpg",
+            "uploaded": true
+          },
+          "ration": {
+            "file": {},
+            "preview": "http://localhost:5000/uploads/file-1756373468152-725397908.jpg",
+            "uploaded": true
+          },
+          "aadhaar": {
+            "file": {},
+            "preview": "http://localhost:5000/uploads/file-1756373463276-185910533.jpg",
+            "uploaded": true
+          },
+          "userPhoto": {
+            "file": {},
+            "preview": "http://localhost:5000/uploads/file-1756373338051-153894615.jpg",
+            "uploaded": true
+          },
+          "friendPhoto": {
+            "url": null,
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "documentsSummary": {
+            "totalRequired": 6,
+            "totalUploaded": 5,
+            "completionRate": 83.33333333333334
+          }
+        },
+        "landParcels": [
+          {
+            "acres": 2.471,
+            "hectares": 1,
+            "landNumber": 1,
+            "surveyNumber": "1"
+          }
+        ],
+        "selectedCrops": [
+          {
+            "crop": {
+              "motham": 35200,
+              "rokkam": 30500,
+              "uram_1": 950,
+              "uram_2": 1900,
+              "vithai": 1600,
+              "crop_code": 2,
+              "thozhu_uram": 950,
+              "name_of_crop": "பந்தல் அவரை",
+              "poochi_marundhu": 1200
+            },
+            "acres": 0.8,
+            "breakdown": {
+              "cents": 80,
+              "motham": 28160,
+              "rokkam": 24400,
+              "uram_1": 760,
+              "uram_2": 1520,
+              "vithai": 1280,
+              "perCentRate": {
+                "motham": 352,
+                "rokkam": 305,
+                "uram_1": 9.5,
+                "uram_2": 19,
+                "vithai": 16,
+                "thozhu_uram": 9.5,
+                "poochi_marundhu": 12
+              },
+              "thozhu_uram": 760,
+              "poochi_marundhu": 960
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 28160,
+            "cropName": "பந்தல் அவரை"
+          }
+        ],
+        "userInformation": {
+          "voter": {},
+          "pan_file": {},
+          "checkboxes": {
+            "kcc": true,
+            "jewel": false,
+            "kccah": false,
+            "tractor": false
+          },
+          "user_photo": {},
+          "voter_file": null,
+          "pan_preview": "http://localhost:5000/uploads/file-1756373472414-322225185.jpg",
+          "ration_file": {},
+          "aadhaar_file": {},
+          "friend_photo": null,
+          "ஜாதி": "bc",
+          "voter_preview": "http://localhost:5000/uploads/file-1756373476546-223115542.jpg",
+          "உ_எண்": "15",
+          "guarantee_type": "friend",
+          "ration_preview": "http://localhost:5000/uploads/file-1756373468152-725397908.jpg",
+          "aadhaar_preview": "http://localhost:5000/uploads/file-1756373463276-185910533.jpg",
+          "பெயர்": "giri",
+          "principle_amount": "100000",
+          "user_photo_preview": "http://localhost:5000/uploads/file-1756373338051-153894615.jpg",
+          "முகவரி": "salem",
+          "வட்டம்": "saelm",
+          "நிலம்1_ac": "2.471",
+          "நிலம்2_ac": "",
+          "நிலம்3_ac": "",
+          "நிலம்4_ac": "",
+          "நிலம்5_ac": "",
+          "நிலம்6_ac": "",
+          "நிலம்7_ac": "",
+          "நிலம்8_ac": "",
+          "நிலம்9_ac": "",
+          "friend_photo_preview": null,
+          "நிலம்10_ac": "",
+          "நிலம்11_ac": "",
+          "நிலம்12_ac": "",
+          "நிலம்13_ac": "",
+          "நிலம்14_ac": "",
+          "நிலம்15_ac": "",
+          "நிலம்16_ac": "",
+          "நிலம்17_ac": "",
+          "நிலம்18_ac": "",
+          "நிலம்19_ac": "",
+          "நிலம்1_heh": "1",
+          "நிலம்20_ac": "",
+          "நிலம்2_heh": "",
+          "நிலம்3_heh": "",
+          "நிலம்4_heh": "",
+          "நிலம்5_heh": "",
+          "நிலம்6_heh": "",
+          "நிலம்7_heh": "",
+          "நிலம்8_heh": "",
+          "நிலம்9_heh": "",
+          "கிராமம்": "vattam",
+          "தகபெயர்": "ramesh",
+          "நிலம்10_heh": "",
+          "நிலம்11_heh": "",
+          "நிலம்12_heh": "",
+          "நிலம்13_heh": "",
+          "நிலம்14_heh": "",
+          "நிலம்15_heh": "",
+          "நிலம்16_heh": "",
+          "நிலம்17_heh": "",
+          "நிலம்18_heh": "",
+          "நிலம்19_heh": "",
+          "நிலம்20_heh": "",
+          "ஆதார்_எண்": "123456789101",
+          "கைபேசி_எண்": "9942692272",
+          "pan_அட்டை_எண்": "1",
+          "பிறந்த_தேதி": "2002-07-08",
+          "மொத்த_நிலம்": "",
+          "பங்குத்_தொகை": "1408",
+          "sdccb_sb_கணக்கு_எண்": "1",
+          "sdccb_kcc_கணக்கு_எண்": "1",
+          "society_sb_கணக்கு_எண்": "11",
+          "ரேஷன்_அட்டை_எண்": "111",
+          "ரேஷன்_அட்டை_வகை": "1",
+          "நிலம்1_சர்வே_எண்": "1",
+          "நிலம்2_சர்வே_எண்": "",
+          "நிலம்3_சர்வே_எண்": "",
+          "நிலம்4_சர்வே_எண்": "",
+          "நிலம்5_சர்வே_எண்": "",
+          "நிலம்6_சர்வே_எண்": "",
+          "நிலம்7_சர்வே_எண்": "",
+          "நிலம்8_சர்வே_எண்": "",
+          "நிலம்9_சர்வே_எண்": "",
+          "நிலம்10_சர்வே_எண்": "",
+          "நிலம்11_சர்வே_எண்": "",
+          "நிலம்12_சர்வே_எண்": "",
+          "நிலம்13_சர்வே_எண்": "",
+          "நிலம்14_சர்வே_எண்": "",
+          "நிலம்15_சர்வே_எண்": "",
+          "நிலம்16_சர்வே_எண்": "",
+          "நிலம்17_சர்வே_எண்": "",
+          "நிலம்18_சர்வே_எண்": "",
+          "நிலம்19_சர்வே_எண்": "",
+          "நிலம்20_சர்வே_எண்": "",
+          "வாக்காளர்_அட்டை_எண்": "1"
+        }
+      },
+      {
+        "id": "9673f8b9-7de1-472e-8eed-00483d1b8dd0",
+        "serialNo": "2",
+        "memberName": "ramesh",
+        "fatherName": "siva",
+        "category": "பருத்தி-BT ரகம் (0.5ac) - ₹19,850, பருத்தி - மா (0.5ac) - ₹13,900, நெல் (இ) (0.5ac) - ₹19,150, நெல் (இ) (0.5ac) - ₹19,150",
+        "landArea": 76.58400000000003,
+        "farmerType": "OF",
+        "classification": "bc",
+        "aadhaarNo": "122222222222",
+        "accountNo": "1234",
+        "phoneNo": "9942692271",
+        "amount": 72050,
+        "date": "2025-08-23",
+        "formSections": {
+          "documents": true,
+          "friendImage": false,
+          "goldDetails": true,
+          "landDetails": true,
+          "loanDetails": true,
+          "ownProperty": false,
+          "friendDetails": false,
+          "userInformation": true
+        },
+        "goldDetails": {
+          "items": [
+            {
+              "type": "chain",
+              "alloy": "20",
+              "count": 1,
+              "weight": 10,
+              "netAmount": 5000,
+              "netWeight": 1
+            }
+          ],
+          "hasGold": true,
+          "totalItems": 1,
+          "totalValue": 50000,
+          "goldSummary": {
+            "totalCount": 1,
+            "totalTypes": 1,
+            "goldRateUsed": 5000,
+            "highestValue": 50000,
+            "averageWeight": 10,
+            "netWeightCalculation": "நிகர எடை × தங்க விலை = நிகர தொகை",
+            "totalNetAmountSummary": 5000,
+            "totalNetWeightSummary": 1
+          },
+          "marketValue": 5000,
+          "totalWeight": 10,
+          "totalNetAmount": 5000,
+          "totalNetWeight": 1,
+          "goldItemsDetails": [
+            {
+              "type": "chain",
+              "alloy": "20",
+              "count": 1,
+              "value": 50000,
+              "weight": 10,
+              "netAmount": 5000,
+              "netWeight": 1,
+              "itemNumber": 1,
+              "totalWeight": 10
+            }
+          ]
+        },
+        "friendDetails": {
+          "acre": "",
+          "name": "",
+          "phone": "",
+          "address": "",
+          "hasData": false,
+          "uNumber": "",
+          "hasImage": false,
+          "imageUrl": null,
+          "fatherName": "",
+          "detailedInfo": {
+            "உ_எண்": "",
+            "பெயர்": "",
+            "படம்_URL": null,
+            "ஏக்கர்": "",
+            "முகவரி": "",
+            "தகபெயர்": "",
+            "ஆதார்_எண்": "",
+            "சர்வே_எண்": "",
+            "கைபேசி_எண்": ""
+          },
+          "surveyNumber": "",
+          "aadhaarNumber": ""
+        },
+        "ownProperty": {
+          "value": 0,
+          "description": "",
+          "hasProperty": false,
+          "hasPropertyData": false,
+          "mortgageDetails": {
+            "a": "",
+            "ca": "",
+            "extent": "",
+            "village": "",
+            "irrigation": "",
+            "mortgageReg": "",
+            "surveyNumber": "",
+            "guidanceValue": 0,
+            "mortgageAmount": 0,
+            "hasMortgageData": false,
+            "registrarOffice": ""
+          },
+          "propertySummary": {
+            "totalValue": 0,
+            "guidanceValue": 0,
+            "mortgageValue": 0,
+            "hasDescription": false,
+            "hasMortgageDetails": false
+          }
+        },
+        "documents": {
+          "pan": {
+            "file": null,
+            "preview": "http://localhost:5000/uploads/file-1755926284191-334587616.jpg",
+            "uploaded": true
+          },
+          "voter": {
+            "file": null,
+            "preview": "data:image/jpeg;base64,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",
+            "uploaded": true
+          },
+          "ration": {
+            "file": null,
+            "preview": "http://localhost:5000/uploads/file-1755926278655-579480696.jpg",
+            "uploaded": true
+          },
+          "aadhaar": {
+            "file": null,
+            "preview": "http://localhost:5000/uploads/file-1755926273797-595879969.jpg",
+            "uploaded": true
+          },
+          "userPhoto": {
+            "file": null,
+            "preview": "http://localhost:5000/uploads/file-1755926040605-419846985.jpg",
+            "uploaded": true
+          },
+          "friendPhoto": {
+            "url": null,
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "documentsSummary": {
+            "totalRequired": 6,
+            "totalUploaded": 5,
+            "completionRate": 83.33333333333334
+          }
+        },
+        "landParcels": [
+          {
+            "acres": 2.471,
+            "hectares": 1,
+            "landNumber": 1,
+            "surveyNumber": "1/302"
+          },
+          {
+            "acres": 2.471,
+            "hectares": 1,
+            "landNumber": 2,
+            "surveyNumber": "1/302"
+          },
+          {
+            "acres": 2.471,
+            "hectares": 1,
+            "landNumber": 3,
+            "surveyNumber": "1/303"
+          },
+          {
+            "acres": 2.471,
+            "hectares": 1,
+            "landNumber": 4,
+            "surveyNumber": "1/404"
+          },
+          {
+            "acres": 2.471,
+            "hectares": 1,
+            "landNumber": 5,
+            "surveyNumber": "1/405"
+          },
+          {
+            "acres": 4.942,
+            "hectares": 2,
+            "landNumber": 6,
+            "surveyNumber": "1/106"
+          },
+          {
+            "acres": 2.471,
+            "hectares": 1,
+            "landNumber": 7,
+            "surveyNumber": "1/107"
+          },
+          {
+            "acres": 2.471,
+            "hectares": 1,
+            "landNumber": 8,
+            "surveyNumber": "1/108"
+          },
+          {
+            "acres": 27.181,
+            "hectares": 11,
+            "landNumber": 9,
+            "surveyNumber": "1"
+          },
+          {
+            "acres": 2.471,
+            "hectares": 1,
+            "landNumber": 10,
+            "surveyNumber": "1"
+          },
+          {
+            "acres": 2.471,
+            "hectares": 1,
+            "landNumber": 11,
+            "surveyNumber": "1"
+          },
+          {
+            "acres": 2.471,
+            "hectares": 1,
+            "landNumber": 12,
+            "surveyNumber": "1"
+          },
+          {
+            "acres": 2.471,
+            "hectares": 1,
+            "landNumber": 13,
+            "surveyNumber": "1"
+          },
+          {
+            "acres": 2.471,
+            "hectares": 1,
+            "landNumber": 14,
+            "surveyNumber": "1"
+          },
+          {
+            "acres": 2.471,
+            "hectares": 1,
+            "landNumber": 15,
+            "surveyNumber": "111"
+          },
+          {
+            "acres": 2.471,
+            "hectares": 1,
+            "landNumber": 16,
+            "surveyNumber": "1"
+          },
+          {
+            "acres": 2.454,
+            "hectares": 0.993,
+            "landNumber": 17,
+            "surveyNumber": "1"
+          },
+          {
+            "acres": 2.471,
+            "hectares": 1,
+            "landNumber": 18,
+            "surveyNumber": "1"
+          },
+          {
+            "acres": 2.471,
+            "hectares": 1,
+            "landNumber": 19,
+            "surveyNumber": "1"
+          },
+          {
+            "acres": 2.471,
+            "hectares": 1,
+            "landNumber": 20,
+            "surveyNumber": "1"
+          }
+        ],
+        "selectedCrops": [
+          {
+            "crop": {
+              "motham": 39700,
+              "rokkam": 34600,
+              "uram_1": 1100,
+              "uram_2": 2200,
+              "vithai": 1200,
+              "crop_code": 4,
+              "thozhu_uram": 1100,
+              "name_of_crop": "பருத்தி-BT ரகம்",
+              "poochi_marundhu": 1700
+            },
+            "acres": 0.5,
+            "breakdown": {
+              "cents": 50,
+              "motham": 19850,
+              "rokkam": 17300,
+              "uram_1": 550,
+              "uram_2": 1100,
+              "vithai": 600,
+              "perCentRate": {
+                "motham": 397,
+                "rokkam": 346,
+                "uram_1": 11,
+                "uram_2": 22,
+                "vithai": 12,
+                "thozhu_uram": 11,
+                "poochi_marundhu": 17
+              },
+              "thozhu_uram": 550,
+              "poochi_marundhu": 850
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 19850,
+            "cropName": "பருத்தி-BT ரகம்"
+          },
+          {
+            "crop": {
+              "motham": 27800,
+              "rokkam": 23460,
+              "uram_1": 950,
+              "uram_2": 1900,
+              "vithai": 840,
+              "crop_code": 8,
+              "thozhu_uram": 950,
+              "name_of_crop": "பருத்தி - மா",
+              "poochi_marundhu": 1600
+            },
+            "acres": 0.5,
+            "breakdown": {
+              "cents": 50,
+              "motham": 13900,
+              "rokkam": 11730,
+              "uram_1": 475,
+              "uram_2": 950,
+              "vithai": 420,
+              "perCentRate": {
+                "motham": 278,
+                "rokkam": 234.6,
+                "uram_1": 9.5,
+                "uram_2": 19,
+                "vithai": 8.4,
+                "thozhu_uram": 9.5,
+                "poochi_marundhu": 16
+              },
+              "thozhu_uram": 475,
+              "poochi_marundhu": 800
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 13900,
+            "cropName": "பருத்தி - மா"
+          },
+          {
+            "crop": {
+              "motham": 38300,
+              "rokkam": 31350,
+              "uram_1": 2400,
+              "uram_2": 4800,
+              "vithai": 850,
+              "crop_code": 1,
+              "thozhu_uram": 2400,
+              "name_of_crop": "நெல் (இ)",
+              "poochi_marundhu": 1300
+            },
+            "acres": 0.5,
+            "breakdown": {
+              "cents": 50,
+              "motham": 19150,
+              "rokkam": 15675,
+              "uram_1": 1200,
+              "uram_2": 2400,
+              "vithai": 425,
+              "perCentRate": {
+                "motham": 383,
+                "rokkam": 313.5,
+                "uram_1": 24,
+                "uram_2": 48,
+                "vithai": 8.5,
+                "thozhu_uram": 24,
+                "poochi_marundhu": 13
+              },
+              "thozhu_uram": 1200,
+              "poochi_marundhu": 650
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 19150,
+            "cropName": "நெல் (இ)"
+          },
+          {
+            "crop": {
+              "motham": 38300,
+              "rokkam": 31350,
+              "uram_1": 2400,
+              "uram_2": 4800,
+              "vithai": 850,
+              "crop_code": 1,
+              "thozhu_uram": 2400,
+              "name_of_crop": "நெல் (இ)",
+              "poochi_marundhu": 1300
+            },
+            "acres": 0.5,
+            "breakdown": {
+              "cents": 50,
+              "motham": 19150,
+              "rokkam": 15675,
+              "uram_1": 1200,
+              "uram_2": 2400,
+              "vithai": 425,
+              "perCentRate": {
+                "motham": 383,
+                "rokkam": 313.5,
+                "uram_1": 24,
+                "uram_2": 48,
+                "vithai": 8.5,
+                "thozhu_uram": 24,
+                "poochi_marundhu": 13
+              },
+              "thozhu_uram": 1200,
+              "poochi_marundhu": 650
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 19150,
+            "cropName": "நெல் (இ)"
+          }
+        ],
+        "userInformation": {
+          "pan_file": null,
+          "checkboxes": {
+            "kcc": true,
+            "jewel": false,
+            "kccah": false,
+            "tractor": false
+          },
+          "user_photo": null,
+          "voter_file": null,
+          "pan_preview": "http://localhost:5000/uploads/file-1755926284191-334587616.jpg",
+          "ration_file": null,
+          "aadhaar_file": null,
+          "friend_photo": null,
+          "ஜாதி": "bc",
+          "voter_preview": "data:image/jpeg;base64,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",
+          "உ_எண்": "125",
+          "guarantee_type": "gold",
+          "ration_preview": "http://localhost:5000/uploads/file-1755926278655-579480696.jpg",
+          "aadhaar_preview": "http://localhost:5000/uploads/file-1755926273797-595879969.jpg",
+          "பெயர்": "ramesh",
+          "principle_amount": "100000",
+          "user_photo_preview": "http://localhost:5000/uploads/file-1755926040605-419846985.jpg",
+          "முகவரி": "1/301,salem",
+          "வட்டம்": "sankagiri",
+          "நிலம்1_ac": "2.471",
+          "நிலம்2_ac": "2.471",
+          "நிலம்3_ac": "2.471",
+          "நிலம்4_ac": "2.471",
+          "நிலம்5_ac": "2.471",
+          "நிலம்6_ac": "4.942",
+          "நிலம்7_ac": "2.471",
+          "நிலம்8_ac": "2.471",
+          "நிலம்9_ac": "27.181",
+          "friend_photo_preview": null,
+          "நிலம்10_ac": "2.471",
+          "நிலம்11_ac": "2.471",
+          "நிலம்12_ac": "2.471",
+          "நிலம்13_ac": "2.471",
+          "நிலம்14_ac": "2.471",
+          "நிலம்15_ac": "2.471",
+          "நிலம்16_ac": "2.471",
+          "நிலம்17_ac": "2.454",
+          "நிலம்18_ac": "2.471",
+          "நிலம்19_ac": "2.471",
+          "நிலம்1_heh": "1",
+          "நிலம்20_ac": "2.471",
+          "நிலம்2_heh": "1",
+          "நிலம்3_heh": "1",
+          "நிலம்4_heh": "1",
+          "நிலம்5_heh": "1",
+          "நிலம்6_heh": "2",
+          "நிலம்7_heh": "1",
+          "நிலம்8_heh": "1",
+          "நிலம்9_heh": "11",
+          "கிராமம்": "kudalur",
+          "தகபெயர்": "siva",
+          "நிலம்10_heh": "1",
+          "நிலம்11_heh": "1",
+          "நிலம்12_heh": "1",
+          "நிலம்13_heh": "1",
+          "நிலம்14_heh": "1",
+          "நிலம்15_heh": "1",
+          "நிலம்16_heh": "1",
+          "நிலம்17_heh": "0.993",
+          "நிலம்18_heh": "1",
+          "நிலம்19_heh": "1",
+          "நிலம்20_heh": "1",
+          "ஆதார்_எண்": "122222222222",
+          "கைபேசி_எண்": "9942692271",
+          "pan_அட்டை_எண்": "1243458",
+          "பிறந்த_தேதி": "2002-07-08",
+          "மொத்த_நிலம்": "",
+          "பங்குத்_தொகை": "3602.50",
+          "sdccb_sb_கணக்கு_எண்": "12345",
+          "sdccb_kcc_கணக்கு_எண்": "1234",
+          "society_sb_கணக்கு_எண்": "13567",
+          "ரேஷன்_அட்டை_எண்": "12",
+          "ரேஷன்_அட்டை_வகை": "bc",
+          "நிலம்1_சர்வே_எண்": "1/302",
+          "நிலம்2_சர்வே_எண்": "1/302",
+          "நிலம்3_சர்வே_எண்": "1/303",
+          "நிலம்4_சர்வே_எண்": "1/404",
+          "நிலம்5_சர்வே_எண்": "1/405",
+          "நிலம்6_சர்வே_எண்": "1/106",
+          "நிலம்7_சர்வே_எண்": "1/107",
+          "நிலம்8_சர்வே_எண்": "1/108",
+          "நிலம்9_சர்வே_எண்": "1",
+          "நிலம்10_சர்வே_எண்": "1",
+          "நிலம்11_சர்வே_எண்": "1",
+          "நிலம்12_சர்வே_எண்": "1",
+          "நிலம்13_சர்வே_எண்": "1",
+          "நிலம்14_சர்வே_எண்": "1",
+          "நிலம்15_சர்வே_எண்": "111",
+          "நிலம்16_சர்வே_எண்": "1",
+          "நிலம்17_சர்வே_எண்": "1",
+          "நிலம்18_சர்வே_எண்": "1",
+          "நிலம்19_சர்வே_எண்": "1",
+          "நிலம்20_சர்வே_எண்": "1",
+          "வாக்காளர்_அட்டை_எண்": "21"
+        }
+      },
+      {
+        "id": "7a9efea4-aebc-45d3-b901-bed58ae61db2",
+        "serialNo": "3",
+        "memberName": "ramesh",
+        "fatherName": "giri",
+        "category": "நெல் (இ) (0.5ac) - ₹19,150",
+        "landArea": 2.46,
+        "farmerType": "MF",
+        "classification": "bc",
+        "aadhaarNo": "123456789101",
+        "accountNo": "12",
+        "phoneNo": "1234567899",
+        "amount": 19150,
+        "date": "2025-08-28",
+        "formSections": {
+          "documents": true,
+          "friendImage": false,
+          "goldDetails": false,
+          "landDetails": true,
+          "loanDetails": true,
+          "ownProperty": true,
+          "friendDetails": true,
+          "userInformation": true
+        },
+        "goldDetails": {
+          "items": [],
+          "hasGold": false,
+          "totalItems": 0,
+          "totalValue": 0,
+          "goldSummary": {
+            "totalCount": 0,
+            "totalTypes": 0,
+            "goldRateUsed": 500,
+            "highestValue": 0,
+            "averageWeight": 0,
+            "netWeightCalculation": "நிகர எடை × தங்க விலை = நிகர தொகை",
+            "totalNetAmountSummary": 0,
+            "totalNetWeightSummary": 0
+          },
+          "marketValue": 500,
+          "totalWeight": 0,
+          "totalNetAmount": 0,
+          "totalNetWeight": 0,
+          "goldItemsDetails": []
+        },
+        "friendDetails": {
+          "acre": "155.66",
+          "name": "ramesh",
+          "phone": "1234567899",
+          "address": "1/301,salem",
+          "hasData": true,
+          "uNumber": "199",
+          "hasImage": false,
+          "imageUrl": null,
+          "fatherName": "giri",
+          "detailedInfo": {
+            "உ_எண்": "199",
+            "பெயர்": "ramesh",
+            "படம்_URL": null,
+            "ஏக்கர்": "155.66",
+            "முகவரி": "1/301,salem",
+            "தகபெயர்": "giri",
+            "ஆதார்_எண்": "123456789101",
+            "சர்வே_எண்": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20",
+            "கைபேசி_எண்": "1234567899"
+          },
+          "surveyNumber": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20",
+          "aadhaarNumber": "123456789101"
+        },
+        "ownProperty": {
+          "value": 0,
+          "description": "",
+          "hasProperty": true,
+          "hasPropertyData": true,
+          "mortgageDetails": {
+            "a": "",
+            "ca": "",
+            "extent": "",
+            "village": "",
+            "irrigation": "",
+            "mortgageReg": "",
+            "surveyNumber": "",
+            "guidanceValue": 0,
+            "mortgageAmount": 0,
+            "hasMortgageData": true,
+            "registrarOffice": ""
+          },
+          "propertySummary": {
+            "totalValue": 0,
+            "guidanceValue": 0,
+            "mortgageValue": 0,
+            "hasDescription": false,
+            "hasMortgageDetails": false
+          }
+        },
+        "documents": {
+          "pan": {
+            "file": null,
+            "preview": "blob:http://localhost:3000/8e150b13-a4de-49b5-9801-bf9f8ba2ebb6",
+            "uploaded": true
+          },
+          "voter": {
+            "file": null,
+            "preview": "blob:http://localhost:3000/ae1419a3-54fd-4df4-9360-478c12c01e1c",
+            "uploaded": true
+          },
+          "ration": {
+            "file": null,
+            "preview": "blob:http://localhost:3000/84b1c844-a152-4384-b947-1b9c38d526c4",
+            "uploaded": true
+          },
+          "aadhaar": {
+            "file": null,
+            "preview": "blob:http://localhost:3000/e3bb8fab-0fb6-4c84-a04b-f8215467a3a7",
+            "uploaded": true
+          },
+          "userPhoto": {
+            "file": null,
+            "preview": "blob:http://localhost:3000/97a9ec40-a2ad-479d-a993-63a8941efa11",
+            "uploaded": true
+          },
+          "friendPhoto": {
+            "url": null,
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "documentsSummary": {
+            "totalRequired": 6,
+            "totalUploaded": 5,
+            "completionRate": 83.33333333333334
+          }
+        },
+        "landParcels": [
+          {
+            "acres": 2.46,
+            "hectares": 0.996,
+            "landNumber": 1,
+            "surveyNumber": "1"
+          }
+        ],
+        "selectedCrops": [
+          {
+            "crop": {
+              "motham": 38300,
+              "rokkam": 31350,
+              "uram_1": 2400,
+              "uram_2": 4800,
+              "vithai": 850,
+              "crop_code": 1,
+              "thozhu_uram": 2400,
+              "name_of_crop": "நெல் (இ)",
+              "poochi_marundhu": 1300
+            },
+            "acres": 0.5,
+            "breakdown": {
+              "cents": 50,
+              "motham": 19150,
+              "rokkam": 15675,
+              "uram_1": 1200,
+              "uram_2": 2400,
+              "vithai": 425,
+              "perCentRate": {
+                "motham": 383,
+                "rokkam": 313.5,
+                "uram_1": 24,
+                "uram_2": 48,
+                "vithai": 8.5,
+                "thozhu_uram": 24,
+                "poochi_marundhu": 13
+              },
+              "thozhu_uram": 1200,
+              "poochi_marundhu": 650
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 19150,
+            "cropName": "நெல் (இ)"
+          }
+        ],
+        "userInformation": {
+          "pan_file": null,
+          "checkboxes": {
+            "kcc": true,
+            "jewel": false,
+            "kccah": false,
+            "tractor": false
+          },
+          "user_photo": null,
+          "voter_file": null,
+          "pan_preview": "blob:http://localhost:3000/8e150b13-a4de-49b5-9801-bf9f8ba2ebb6",
+          "ration_file": null,
+          "aadhaar_file": null,
+          "friend_photo": null,
+          "ஜாதி": "bc",
+          "voter_preview": "blob:http://localhost:3000/ae1419a3-54fd-4df4-9360-478c12c01e1c",
+          "உ_எண்": "1234",
+          "guarantee_type": "friend",
+          "ration_preview": "blob:http://localhost:3000/84b1c844-a152-4384-b947-1b9c38d526c4",
+          "aadhaar_preview": "blob:http://localhost:3000/e3bb8fab-0fb6-4c84-a04b-f8215467a3a7",
+          "பெயர்": "ramesh",
+          "principle_amount": "100000",
+          "user_photo_preview": "blob:http://localhost:3000/97a9ec40-a2ad-479d-a993-63a8941efa11",
+          "முகவரி": "salem",
+          "வட்டம்": "salem",
+          "நிலம்1_ac": "2.46",
+          "நிலம்2_ac": "",
+          "நிலம்3_ac": "",
+          "நிலம்4_ac": "",
+          "நிலம்5_ac": "",
+          "நிலம்6_ac": "",
+          "நிலம்7_ac": "",
+          "நிலம்8_ac": "",
+          "நிலம்9_ac": "",
+          "friend_photo_preview": null,
+          "நிலம்10_ac": "",
+          "நிலம்11_ac": "",
+          "நிலம்12_ac": "",
+          "நிலம்13_ac": "",
+          "நிலம்14_ac": "",
+          "நிலம்15_ac": "",
+          "நிலம்16_ac": "",
+          "நிலம்17_ac": "",
+          "நிலம்18_ac": "",
+          "நிலம்19_ac": "",
+          "நிலம்1_heh": "0.996",
+          "நிலம்20_ac": "",
+          "நிலம்2_heh": "",
+          "நிலம்3_heh": "",
+          "நிலம்4_heh": "",
+          "நிலம்5_heh": "",
+          "நிலம்6_heh": "",
+          "நிலம்7_heh": "",
+          "நிலம்8_heh": "",
+          "நிலம்9_heh": "",
+          "கிராமம்": "salem",
+          "தகபெயர்": "giri",
+          "நிலம்10_heh": "",
+          "நிலம்11_heh": "",
+          "நிலம்12_heh": "",
+          "நிலம்13_heh": "",
+          "நிலம்14_heh": "",
+          "நிலம்15_heh": "",
+          "நிலம்16_heh": "",
+          "நிலம்17_heh": "",
+          "நிலம்18_heh": "",
+          "நிலம்19_heh": "",
+          "நிலம்20_heh": "",
+          "ஆதார்_எண்": "123456789101",
+          "கைபேசி_எண்": "1234567899",
+          "pan_அட்டை_எண்": "ABCDE1234S",
+          "பிறந்த_தேதி": "2002-07-08",
+          "மொத்த_நிலம்": "",
+          "பங்குத்_தொகை": "1",
+          "sdccb_sb_கணக்கு_எண்": "1",
+          "sdccb_kcc_கணக்கு_எண்": "12",
+          "society_sb_கணக்கு_எண்": "1",
+          "ரேஷன்_அட்டை_எண்": "1",
+          "ரேஷன்_அட்டை_வகை": "1",
+          "நிலம்1_சர்வே_எண்": "1",
+          "நிலம்2_சர்வே_எண்": "",
+          "நிலம்3_சர்வே_எண்": "",
+          "நிலம்4_சர்வே_எண்": "",
+          "நிலம்5_சர்வே_எண்": "",
+          "நிலம்6_சர்வே_எண்": "",
+          "நிலம்7_சர்வே_எண்": "",
+          "நிலம்8_சர்வே_எண்": "",
+          "நிலம்9_சர்வே_எண்": "",
+          "நிலம்10_சர்வே_எண்": "",
+          "நிலம்11_சர்வே_எண்": "",
+          "நிலம்12_சர்வே_எண்": "",
+          "நிலம்13_சர்வே_எண்": "",
+          "நிலம்14_சர்வே_எண்": "",
+          "நிலம்15_சர்வே_எண்": "",
+          "நிலம்16_சர்வே_எண்": "",
+          "நிலம்17_சர்வே_எண்": "",
+          "நிலம்18_சர்வே_எண்": "",
+          "நிலம்19_சர்வே_எண்": "",
+          "நிலம்20_சர்வே_எண்": "",
+          "வாக்காளர்_அட்டை_எண்": "1"
+        }
+      },
+      {
+        "id": "ebd90771-6a22-4fc5-a500-e527f294ff72",
+        "serialNo": "4",
+        "memberName": "sri5",
+        "fatherName": "ramesh",
+        "category": "நெல் (இ) (0.5ac) - ₹19,150, நெல் (இ) (0.5ac) - ₹19,150, நெல் (இ) (0.5ac) - ₹19,150, நெல் (இ) (0.5ac) - ₹19,150",
+        "landArea": 2.469,
+        "farmerType": "MF",
+        "classification": "bc",
+        "aadhaarNo": "123456789101",
+        "accountNo": "1",
+        "phoneNo": "1222222222",
+        "amount": 76600,
+        "date": "2025-08-20",
+        "formSections": {
+          "documents": true,
+          "friendImage": false,
+          "goldDetails": true,
+          "landDetails": true,
+          "loanDetails": true,
+          "ownProperty": true,
+          "friendDetails": false,
+          "userInformation": true
+        },
+        "goldDetails": {
+          "items": [
+            {
+              "type": "chain",
+              "alloy": "1",
+              "count": 1,
+              "weight": 10,
+              "netAmount": 4500,
+              "netWeight": 9
+            }
+          ],
+          "hasGold": true,
+          "totalItems": 1,
+          "totalValue": 50000,
+          "goldSummary": {
+            "totalCount": 1,
+            "totalTypes": 1,
+            "goldRateUsed": 5000,
+            "highestValue": 50000,
+            "averageWeight": 10,
+            "netWeightCalculation": "நிகர எடை × தங்க விலை = நிகர தொகை",
+            "totalNetAmountSummary": 4500,
+            "totalNetWeightSummary": 9
+          },
+          "marketValue": 5000,
+          "totalWeight": 10,
+          "totalNetAmount": 4500,
+          "totalNetWeight": 9,
+          "goldItemsDetails": [
+            {
+              "type": "chain",
+              "alloy": "1",
+              "count": 1,
+              "value": 50000,
+              "weight": 10,
+              "netAmount": 4500,
+              "netWeight": 9,
+              "itemNumber": 1,
+              "totalWeight": 10
+            }
+          ]
+        },
+        "friendDetails": {
+          "acre": "",
+          "name": "",
+          "phone": "",
+          "address": "",
+          "hasData": false,
+          "uNumber": "",
+          "hasImage": false,
+          "imageUrl": null,
+          "fatherName": "",
+          "detailedInfo": {
+            "உ_எண்": "",
+            "பெயர்": "",
+            "படம்_URL": null,
+            "ஏக்கர்": "",
+            "முகவரி": "",
+            "தகபெயர்": "",
+            "ஆதார்_எண்": "",
+            "சர்வே_எண்": "",
+            "கைபேசி_எண்": ""
+          },
+          "surveyNumber": "",
+          "aadhaarNumber": ""
+        },
+        "ownProperty": {
+          "value": 0,
+          "description": "",
+          "hasProperty": true,
+          "hasPropertyData": true,
+          "mortgageDetails": {
+            "a": "",
+            "ca": "",
+            "extent": "",
+            "village": "",
+            "irrigation": "",
+            "mortgageReg": "",
+            "surveyNumber": "",
+            "guidanceValue": 0,
+            "mortgageAmount": 0,
+            "hasMortgageData": true,
+            "registrarOffice": ""
+          },
+          "propertySummary": {
+            "totalValue": 0,
+            "guidanceValue": 0,
+            "mortgageValue": 0,
+            "hasDescription": false,
+            "hasMortgageDetails": false
+          }
+        },
+        "documents": {
+          "pan": {
+            "file": {},
+            "preview": "http://localhost:5000/uploads/file-1756217212083-315248840.jpg",
+            "uploaded": true
+          },
+          "voter": {
+            "file": null,
+            "preview": "http://localhost:5000/uploads/file-1756217222132-358155012.jpg",
+            "uploaded": true
+          },
+          "ration": {
+            "file": {},
+            "preview": "http://localhost:5000/uploads/file-1756217207531-955179649.jpg",
+            "uploaded": true
+          },
+          "aadhaar": {
+            "file": {},
+            "preview": "http://localhost:5000/uploads/file-1756217202356-332334348.jpg",
+            "uploaded": true
+          },
+          "userPhoto": {
+            "file": {},
+            "preview": "http://localhost:5000/uploads/file-1756217150070-19419396.jpg",
+            "uploaded": true
+          },
+          "friendPhoto": {
+            "url": null,
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "documentsSummary": {
+            "totalRequired": 6,
+            "totalUploaded": 5,
+            "completionRate": 83.33333333333334
+          }
+        },
+        "landParcels": [
+          {
+            "acres": 2.469,
+            "hectares": 0.999,
+            "landNumber": 1,
+            "surveyNumber": "1"
+          }
+        ],
+        "selectedCrops": [
+          {
+            "crop": {
+              "motham": 38300,
+              "rokkam": 31350,
+              "uram_1": 2400,
+              "uram_2": 4800,
+              "vithai": 850,
+              "crop_code": 1,
+              "thozhu_uram": 2400,
+              "name_of_crop": "நெல் (இ)",
+              "poochi_marundhu": 1300
+            },
+            "acres": 0.5,
+            "breakdown": {
+              "cents": 50,
+              "motham": 19150,
+              "rokkam": 15675,
+              "uram_1": 1200,
+              "uram_2": 2400,
+              "vithai": 425,
+              "perCentRate": {
+                "motham": 383,
+                "rokkam": 313.5,
+                "uram_1": 24,
+                "uram_2": 48,
+                "vithai": 8.5,
+                "thozhu_uram": 24,
+                "poochi_marundhu": 13
+              },
+              "thozhu_uram": 1200,
+              "poochi_marundhu": 650
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 19150,
+            "cropName": "நெல் (இ)"
+          },
+          {
+            "crop": {
+              "motham": 38300,
+              "rokkam": 31350,
+              "uram_1": 2400,
+              "uram_2": 4800,
+              "vithai": 850,
+              "crop_code": 1,
+              "thozhu_uram": 2400,
+              "name_of_crop": "நெல் (இ)",
+              "poochi_marundhu": 1300
+            },
+            "acres": 0.5,
+            "breakdown": {
+              "cents": 50,
+              "motham": 19150,
+              "rokkam": 15675,
+              "uram_1": 1200,
+              "uram_2": 2400,
+              "vithai": 425,
+              "perCentRate": {
+                "motham": 383,
+                "rokkam": 313.5,
+                "uram_1": 24,
+                "uram_2": 48,
+                "vithai": 8.5,
+                "thozhu_uram": 24,
+                "poochi_marundhu": 13
+              },
+              "thozhu_uram": 1200,
+              "poochi_marundhu": 650
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 19150,
+            "cropName": "நெல் (இ)"
+          },
+          {
+            "crop": {
+              "motham": 38300,
+              "rokkam": 31350,
+              "uram_1": 2400,
+              "uram_2": 4800,
+              "vithai": 850,
+              "crop_code": 1,
+              "thozhu_uram": 2400,
+              "name_of_crop": "நெல் (இ)",
+              "poochi_marundhu": 1300
+            },
+            "acres": 0.5,
+            "breakdown": {
+              "cents": 50,
+              "motham": 19150,
+              "rokkam": 15675,
+              "uram_1": 1200,
+              "uram_2": 2400,
+              "vithai": 425,
+              "perCentRate": {
+                "motham": 383,
+                "rokkam": 313.5,
+                "uram_1": 24,
+                "uram_2": 48,
+                "vithai": 8.5,
+                "thozhu_uram": 24,
+                "poochi_marundhu": 13
+              },
+              "thozhu_uram": 1200,
+              "poochi_marundhu": 650
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 19150,
+            "cropName": "நெல் (இ)"
+          },
+          {
+            "crop": {
+              "motham": 38300,
+              "rokkam": 31350,
+              "uram_1": 2400,
+              "uram_2": 4800,
+              "vithai": 850,
+              "crop_code": 1,
+              "thozhu_uram": 2400,
+              "name_of_crop": "நெல் (இ)",
+              "poochi_marundhu": 1300
+            },
+            "acres": 0.5,
+            "breakdown": {
+              "cents": 50,
+              "motham": 19150,
+              "rokkam": 15675,
+              "uram_1": 1200,
+              "uram_2": 2400,
+              "vithai": 425,
+              "perCentRate": {
+                "motham": 383,
+                "rokkam": 313.5,
+                "uram_1": 24,
+                "uram_2": 48,
+                "vithai": 8.5,
+                "thozhu_uram": 24,
+                "poochi_marundhu": 13
+              },
+              "thozhu_uram": 1200,
+              "poochi_marundhu": 650
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 19150,
+            "cropName": "நெல் (இ)"
+          }
+        ],
+        "userInformation": {
+          "voter": {},
+          "pan_file": {},
+          "checkboxes": {
+            "kcc": true,
+            "jewel": false,
+            "kccah": false,
+            "tractor": false
+          },
+          "user_photo": {},
+          "voter_file": null,
+          "pan_preview": "http://localhost:5000/uploads/file-1756217212083-315248840.jpg",
+          "ration_file": {},
+          "aadhaar_file": {},
+          "friend_photo": null,
+          "ஜாதி": "bc",
+          "voter_preview": "http://localhost:5000/uploads/file-1756217222132-358155012.jpg",
+          "உ_எண்": "5",
+          "guarantee_type": "gold",
+          "ration_preview": "http://localhost:5000/uploads/file-1756217207531-955179649.jpg",
+          "aadhaar_preview": "http://localhost:5000/uploads/file-1756217202356-332334348.jpg",
+          "பெயர்": "sri5",
+          "principle_amount": "100000",
+          "user_photo_preview": "http://localhost:5000/uploads/file-1756217150070-19419396.jpg",
+          "முகவரி": "salem",
+          "வட்டம்": "salem",
+          "நிலம்1_ac": "2.469",
+          "நிலம்2_ac": "",
+          "நிலம்3_ac": "",
+          "நிலம்4_ac": "",
+          "நிலம்5_ac": "",
+          "நிலம்6_ac": "",
+          "நிலம்7_ac": "",
+          "நிலம்8_ac": "",
+          "நிலம்9_ac": "",
+          "friend_photo_preview": null,
+          "நிலம்10_ac": "",
+          "நிலம்11_ac": "",
+          "நிலம்12_ac": "",
+          "நிலம்13_ac": "",
+          "நிலம்14_ac": "",
+          "நிலம்15_ac": "",
+          "நிலம்16_ac": "",
+          "நிலம்17_ac": "",
+          "நிலம்18_ac": "",
+          "நிலம்19_ac": "",
+          "நிலம்1_heh": "0.999",
+          "நிலம்20_ac": "",
+          "நிலம்2_heh": "",
+          "நிலம்3_heh": "",
+          "நிலம்4_heh": "",
+          "நிலம்5_heh": "",
+          "நிலம்6_heh": "",
+          "நிலம்7_heh": "",
+          "நிலம்8_heh": "",
+          "நிலம்9_heh": "",
+          "கிராமம்": "salem",
+          "தகபெயர்": "ramesh",
+          "நிலம்10_heh": "",
+          "நிலம்11_heh": "",
+          "நிலம்12_heh": "",
+          "நிலம்13_heh": "",
+          "நிலம்14_heh": "",
+          "நிலம்15_heh": "",
+          "நிலம்16_heh": "",
+          "நிலம்17_heh": "",
+          "நிலம்18_heh": "",
+          "நிலம்19_heh": "",
+          "நிலம்20_heh": "",
+          "ஆதார்_எண்": "123456789101",
+          "கைபேசி_எண்": "1222222222",
+          "pan_அட்டை_எண்": "1",
+          "பிறந்த_தேதி": "2002-07-08",
+          "மொத்த_நிலம்": "",
+          "பங்குத்_தொகை": "1",
+          "sdccb_sb_கணக்கு_எண்": "1",
+          "sdccb_kcc_கணக்கு_எண்": "1",
+          "society_sb_கணக்கு_எண்": "1",
+          "ரேஷன்_அட்டை_எண்": "1",
+          "ரேஷன்_அட்டை_வகை": "1",
+          "நிலம்1_சர்வே_எண்": "1",
+          "நிலம்2_சர்வே_எண்": "",
+          "நிலம்3_சர்வே_எண்": "",
+          "நிலம்4_சர்வே_எண்": "",
+          "நிலம்5_சர்வே_எண்": "",
+          "நிலம்6_சர்வே_எண்": "",
+          "நிலம்7_சர்வே_எண்": "",
+          "நிலம்8_சர்வே_எண்": "",
+          "நிலம்9_சர்வே_எண்": "",
+          "நிலம்10_சர்வே_எண்": "",
+          "நிலம்11_சர்வே_எண்": "",
+          "நிலம்12_சர்வே_எண்": "",
+          "நிலம்13_சர்வே_எண்": "",
+          "நிலம்14_சர்வே_எண்": "",
+          "நிலம்15_சர்வே_எண்": "",
+          "நிலம்16_சர்வே_எண்": "",
+          "நிலம்17_சர்வே_எண்": "",
+          "நிலம்18_சர்வே_எண்": "",
+          "நிலம்19_சர்வே_எண்": "",
+          "நிலம்20_சர்வே_எண்": "",
+          "வாக்காளர்_அட்டை_எண்": "1"
+        }
+      },
+      {
+        "id": "8f3a0765-a410-4aa2-a1a4-96d548dfbcbb",
+        "serialNo": "5",
+        "memberName": "sri7",
+        "fatherName": "ramesh",
+        "category": "நெல் (இ) (0.5ac) - ₹19,150, நெல் (இ) (0.5ac) - ₹19,150, நெல் (இ) (0.5ac) - ₹19,150",
+        "landArea": 2.469,
+        "farmerType": "MF",
+        "classification": "1",
+        "aadhaarNo": "1",
+        "accountNo": "1",
+        "phoneNo": "1",
+        "amount": 57450,
+        "date": "2025-08-20",
+        "formSections": {
+          "documents": false,
+          "friendImage": false,
+          "goldDetails": false,
+          "landDetails": true,
+          "loanDetails": true,
+          "ownProperty": false,
+          "friendDetails": true,
+          "userInformation": true
+        },
+        "goldDetails": {
+          "items": [],
+          "hasGold": false,
+          "totalItems": 0,
+          "totalValue": 0,
+          "goldSummary": {
+            "totalCount": 0,
+            "totalTypes": 0,
+            "goldRateUsed": 500,
+            "highestValue": 0,
+            "averageWeight": 0,
+            "netWeightCalculation": "நிகர எடை × தங்க விலை = நிகர தொகை",
+            "totalNetAmountSummary": 0,
+            "totalNetWeightSummary": 0
+          },
+          "marketValue": 500,
+          "totalWeight": 0,
+          "totalNetAmount": 0,
+          "totalNetWeight": 0,
+          "goldItemsDetails": []
+        },
+        "friendDetails": {
+          "acre": "",
+          "name": "giri",
+          "phone": "1",
+          "address": "",
+          "hasData": true,
+          "uNumber": "2",
+          "hasImage": false,
+          "imageUrl": null,
+          "fatherName": "ramesh",
+          "detailedInfo": {
+            "உ_எண்": "2",
+            "பெயர்": "giri",
+            "படம்_URL": null,
+            "ஏக்கர்": "",
+            "முகவரி": "",
+            "தகபெயர்": "ramesh",
+            "ஆதார்_எண்": "1",
+            "சர்வே_எண்": "1",
+            "கைபேசி_எண்": "1"
+          },
+          "surveyNumber": "1",
+          "aadhaarNumber": "1"
+        },
+        "ownProperty": {
+          "value": 0,
+          "description": "",
+          "hasProperty": false,
+          "hasPropertyData": false,
+          "mortgageDetails": {
+            "a": "",
+            "ca": "",
+            "extent": "",
+            "village": "",
+            "irrigation": "",
+            "mortgageReg": "",
+            "surveyNumber": "",
+            "guidanceValue": 0,
+            "mortgageAmount": 0,
+            "hasMortgageData": false,
+            "registrarOffice": ""
+          },
+          "propertySummary": {
+            "totalValue": 0,
+            "guidanceValue": 0,
+            "mortgageValue": 0,
+            "hasDescription": false,
+            "hasMortgageDetails": false
+          }
+        },
+        "documents": {
+          "pan": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "voter": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "ration": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "aadhaar": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "userPhoto": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "friendPhoto": {
+            "url": null,
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "documentsSummary": {
+            "totalRequired": 6,
+            "totalUploaded": 0,
+            "completionRate": 0
+          }
+        },
+        "landParcels": [
+          {
+            "acres": 2.469,
+            "hectares": 0.999,
+            "landNumber": 1,
+            "surveyNumber": "1"
+          }
+        ],
+        "selectedCrops": [
+          {
+            "crop": {
+              "motham": 38300,
+              "rokkam": 31350,
+              "uram_1": 2400,
+              "uram_2": 4800,
+              "vithai": 850,
+              "crop_code": 1,
+              "thozhu_uram": 2400,
+              "name_of_crop": "நெல் (இ)",
+              "poochi_marundhu": 1300
+            },
+            "acres": 0.5,
+            "breakdown": {
+              "cents": 50,
+              "motham": 19150,
+              "rokkam": 15675,
+              "uram_1": 1200,
+              "uram_2": 2400,
+              "vithai": 425,
+              "perCentRate": {
+                "motham": 383,
+                "rokkam": 313.5,
+                "uram_1": 24,
+                "uram_2": 48,
+                "vithai": 8.5,
+                "thozhu_uram": 24,
+                "poochi_marundhu": 13
+              },
+              "thozhu_uram": 1200,
+              "poochi_marundhu": 650
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 19150,
+            "cropName": "நெல் (இ)"
+          },
+          {
+            "crop": {
+              "motham": 38300,
+              "rokkam": 31350,
+              "uram_1": 2400,
+              "uram_2": 4800,
+              "vithai": 850,
+              "crop_code": 1,
+              "thozhu_uram": 2400,
+              "name_of_crop": "நெல் (இ)",
+              "poochi_marundhu": 1300
+            },
+            "acres": 0.5,
+            "breakdown": {
+              "cents": 50,
+              "motham": 19150,
+              "rokkam": 15675,
+              "uram_1": 1200,
+              "uram_2": 2400,
+              "vithai": 425,
+              "perCentRate": {
+                "motham": 383,
+                "rokkam": 313.5,
+                "uram_1": 24,
+                "uram_2": 48,
+                "vithai": 8.5,
+                "thozhu_uram": 24,
+                "poochi_marundhu": 13
+              },
+              "thozhu_uram": 1200,
+              "poochi_marundhu": 650
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 19150,
+            "cropName": "நெல் (இ)"
+          },
+          {
+            "crop": {
+              "motham": 38300,
+              "rokkam": 31350,
+              "uram_1": 2400,
+              "uram_2": 4800,
+              "vithai": 850,
+              "crop_code": 1,
+              "thozhu_uram": 2400,
+              "name_of_crop": "நெல் (இ)",
+              "poochi_marundhu": 1300
+            },
+            "acres": 0.5,
+            "breakdown": {
+              "cents": 50,
+              "motham": 19150,
+              "rokkam": 15675,
+              "uram_1": 1200,
+              "uram_2": 2400,
+              "vithai": 425,
+              "perCentRate": {
+                "motham": 383,
+                "rokkam": 313.5,
+                "uram_1": 24,
+                "uram_2": 48,
+                "vithai": 8.5,
+                "thozhu_uram": 24,
+                "poochi_marundhu": 13
+              },
+              "thozhu_uram": 1200,
+              "poochi_marundhu": 650
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 19150,
+            "cropName": "நெல் (இ)"
+          }
+        ],
+        "userInformation": {
+          "pan_file": null,
+          "checkboxes": {
+            "kcc": true,
+            "jewel": false,
+            "kccah": false,
+            "tractor": false
+          },
+          "user_photo": null,
+          "voter_file": null,
+          "pan_preview": null,
+          "ration_file": null,
+          "aadhaar_file": null,
+          "friend_photo": null,
+          "ஜாதி": "1",
+          "voter_preview": null,
+          "உ_எண்": "7",
+          "guarantee_type": "friend",
+          "ration_preview": null,
+          "aadhaar_preview": null,
+          "பெயர்": "sri7",
+          "principle_amount": "100000",
+          "user_photo_preview": null,
+          "முகவரி": "",
+          "வட்டம்": "1",
+          "நிலம்1_ac": "2.469",
+          "நிலம்2_ac": "",
+          "நிலம்3_ac": "",
+          "நிலம்4_ac": "",
+          "நிலம்5_ac": "",
+          "நிலம்6_ac": "",
+          "நிலம்7_ac": "",
+          "நிலம்8_ac": "",
+          "நிலம்9_ac": "",
+          "friend_photo_preview": null,
+          "நிலம்10_ac": "",
+          "நிலம்11_ac": "",
+          "நிலம்12_ac": "",
+          "நிலம்13_ac": "",
+          "நிலம்14_ac": "",
+          "நிலம்15_ac": "",
+          "நிலம்16_ac": "",
+          "நிலம்17_ac": "",
+          "நிலம்18_ac": "",
+          "நிலம்19_ac": "",
+          "நிலம்1_heh": "0.999",
+          "நிலம்20_ac": "",
+          "நிலம்2_heh": "",
+          "நிலம்3_heh": "",
+          "நிலம்4_heh": "",
+          "நிலம்5_heh": "",
+          "நிலம்6_heh": "",
+          "நிலம்7_heh": "",
+          "நிலம்8_heh": "",
+          "நிலம்9_heh": "",
+          "கிராமம்": "1",
+          "தகபெயர்": "ramesh",
+          "நிலம்10_heh": "",
+          "நிலம்11_heh": "",
+          "நிலம்12_heh": "",
+          "நிலம்13_heh": "",
+          "நிலம்14_heh": "",
+          "நிலம்15_heh": "",
+          "நிலம்16_heh": "",
+          "நிலம்17_heh": "",
+          "நிலம்18_heh": "",
+          "நிலம்19_heh": "",
+          "நிலம்20_heh": "",
+          "ஆதார்_எண்": "1",
+          "கைபேசி_எண்": "1",
+          "pan_அட்டை_எண்": "1",
+          "பிறந்த_தேதி": "2002-07-08",
+          "மொத்த_நிலம்": "",
+          "பங்குத்_தொகை": "1",
+          "sdccb_sb_கணக்கு_எண்": "1",
+          "sdccb_kcc_கணக்கு_எண்": "1",
+          "society_sb_கணக்கு_எண்": "1",
+          "ரேஷன்_அட்டை_எண்": "1",
+          "ரேஷன்_அட்டை_வகை": "1",
+          "நிலம்1_சர்வே_எண்": "1",
+          "நிலம்2_சர்வே_எண்": "",
+          "நிலம்3_சர்வே_எண்": "",
+          "நிலம்4_சர்வே_எண்": "",
+          "நிலம்5_சர்வே_எண்": "",
+          "நிலம்6_சர்வே_எண்": "",
+          "நிலம்7_சர்வே_எண்": "",
+          "நிலம்8_சர்வே_எண்": "",
+          "நிலம்9_சர்வே_எண்": "",
+          "நிலம்10_சர்வே_எண்": "",
+          "நிலம்11_சர்வே_எண்": "",
+          "நிலம்12_சர்வே_எண்": "",
+          "நிலம்13_சர்வே_எண்": "",
+          "நிலம்14_சர்வே_எண்": "",
+          "நிலம்15_சர்வே_எண்": "",
+          "நிலம்16_சர்வே_எண்": "",
+          "நிலம்17_சர்வே_எண்": "",
+          "நிலம்18_சர்வே_எண்": "",
+          "நிலம்19_சர்வே_எண்": "",
+          "நிலம்20_சர்வே_எண்": "",
+          "வாக்காளர்_அட்டை_எண்": "1"
+        }
+      },
+      {
+        "id": "6a74048c-125d-42f3-a064-40b534b10526",
+        "serialNo": "6",
+        "memberName": "sri8",
+        "fatherName": "ramesh",
+        "category": "குச்சி - மா (0.5ac) - ₹13,257.5",
+        "landArea": 2.469,
+        "farmerType": "MF",
+        "classification": "1",
+        "aadhaarNo": "1",
+        "accountNo": "1",
+        "phoneNo": "1",
+        "amount": 13257.5,
+        "date": "2025-08-20",
+        "formSections": {
+          "documents": false,
+          "friendImage": false,
+          "goldDetails": false,
+          "landDetails": true,
+          "loanDetails": true,
+          "ownProperty": false,
+          "friendDetails": true,
+          "userInformation": true
+        },
+        "goldDetails": {
+          "items": [],
+          "hasGold": false,
+          "totalItems": 0,
+          "totalValue": 0,
+          "goldSummary": {
+            "totalCount": 0,
+            "totalTypes": 0,
+            "goldRateUsed": 500,
+            "highestValue": 0,
+            "averageWeight": 0,
+            "netWeightCalculation": "நிகர எடை × தங்க விலை = நிகர தொகை",
+            "totalNetAmountSummary": 0,
+            "totalNetWeightSummary": 0
+          },
+          "marketValue": 500,
+          "totalWeight": 0,
+          "totalNetAmount": 0,
+          "totalNetWeight": 0,
+          "goldItemsDetails": []
+        },
+        "friendDetails": {
+          "acre": "",
+          "name": "ramesh",
+          "phone": "1",
+          "address": "",
+          "hasData": true,
+          "uNumber": "3",
+          "hasImage": false,
+          "imageUrl": null,
+          "fatherName": "ramesh",
+          "detailedInfo": {
+            "உ_எண்": "3",
+            "பெயர்": "ramesh",
+            "படம்_URL": null,
+            "ஏக்கர்": "",
+            "முகவரி": "",
+            "தகபெயர்": "ramesh",
+            "ஆதார்_எண்": "1",
+            "சர்வே_எண்": "1",
+            "கைபேசி_எண்": "1"
+          },
+          "surveyNumber": "1",
+          "aadhaarNumber": "1"
+        },
+        "ownProperty": {
+          "value": 0,
+          "description": "",
+          "hasProperty": false,
+          "hasPropertyData": false,
+          "mortgageDetails": {
+            "a": "",
+            "ca": "",
+            "extent": "",
+            "village": "",
+            "irrigation": "",
+            "mortgageReg": "",
+            "surveyNumber": "",
+            "guidanceValue": 0,
+            "mortgageAmount": 0,
+            "hasMortgageData": false,
+            "registrarOffice": ""
+          },
+          "propertySummary": {
+            "totalValue": 0,
+            "guidanceValue": 0,
+            "mortgageValue": 0,
+            "hasDescription": false,
+            "hasMortgageDetails": false
+          }
+        },
+        "documents": {
+          "pan": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "voter": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "ration": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "aadhaar": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "userPhoto": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "friendPhoto": {
+            "url": null,
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "documentsSummary": {
+            "totalRequired": 6,
+            "totalUploaded": 0,
+            "completionRate": 0
+          }
+        },
+        "landParcels": [
+          {
+            "acres": 2.469,
+            "hectares": 0.999,
+            "landNumber": 1,
+            "surveyNumber": "1"
+          }
+        ],
+        "selectedCrops": [
+          {
+            "crop": {
+              "motham": 26515,
+              "rokkam": 19050,
+              "uram_1": 2325,
+              "uram_2": 4650,
+              "vithai": 2145,
+              "crop_code": 12,
+              "thozhu_uram": 2325,
+              "name_of_crop": "குச்சி - மா",
+              "poochi_marundhu": 670
+            },
+            "acres": 0.5,
+            "breakdown": {
+              "cents": 50,
+              "motham": 13257.5,
+              "rokkam": 9525,
+              "uram_1": 1162.5,
+              "uram_2": 2325,
+              "vithai": 1072.5,
+              "perCentRate": {
+                "motham": 265.15,
+                "rokkam": 190.5,
+                "uram_1": 23.25,
+                "uram_2": 46.5,
+                "vithai": 21.45,
+                "thozhu_uram": 23.25,
+                "poochi_marundhu": 6.7
+              },
+              "thozhu_uram": 1162.5,
+              "poochi_marundhu": 335
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 13257.5,
+            "cropName": "குச்சி - மா"
+          }
+        ],
+        "userInformation": {
+          "pan_file": null,
+          "checkboxes": {
+            "kcc": true,
+            "jewel": false,
+            "kccah": false,
+            "tractor": false
+          },
+          "user_photo": null,
+          "voter_file": null,
+          "pan_preview": null,
+          "ration_file": null,
+          "aadhaar_file": null,
+          "friend_photo": null,
+          "ஜாதி": "1",
+          "voter_preview": null,
+          "உ_எண்": "8",
+          "guarantee_type": "friend",
+          "ration_preview": null,
+          "aadhaar_preview": null,
+          "பெயர்": "sri8",
+          "principle_amount": "100000",
+          "user_photo_preview": null,
+          "முகவரி": "",
+          "வட்டம்": "1",
+          "நிலம்1_ac": "2.469",
+          "நிலம்2_ac": "",
+          "நிலம்3_ac": "",
+          "நிலம்4_ac": "",
+          "நிலம்5_ac": "",
+          "நிலம்6_ac": "",
+          "நிலம்7_ac": "",
+          "நிலம்8_ac": "",
+          "நிலம்9_ac": "",
+          "friend_photo_preview": null,
+          "நிலம்10_ac": "",
+          "நிலம்11_ac": "",
+          "நிலம்12_ac": "",
+          "நிலம்13_ac": "",
+          "நிலம்14_ac": "",
+          "நிலம்15_ac": "",
+          "நிலம்16_ac": "",
+          "நிலம்17_ac": "",
+          "நிலம்18_ac": "",
+          "நிலம்19_ac": "",
+          "நிலம்1_heh": "0.999",
+          "நிலம்20_ac": "",
+          "நிலம்2_heh": "",
+          "நிலம்3_heh": "",
+          "நிலம்4_heh": "",
+          "நிலம்5_heh": "",
+          "நிலம்6_heh": "",
+          "நிலம்7_heh": "",
+          "நிலம்8_heh": "",
+          "நிலம்9_heh": "",
+          "கிராமம்": "1",
+          "தகபெயர்": "ramesh",
+          "நிலம்10_heh": "",
+          "நிலம்11_heh": "",
+          "நிலம்12_heh": "",
+          "நிலம்13_heh": "",
+          "நிலம்14_heh": "",
+          "நிலம்15_heh": "",
+          "நிலம்16_heh": "",
+          "நிலம்17_heh": "",
+          "நிலம்18_heh": "",
+          "நிலம்19_heh": "",
+          "நிலம்20_heh": "",
+          "ஆதார்_எண்": "1",
+          "கைபேசி_எண்": "1",
+          "pan_அட்டை_எண்": "1",
+          "பிறந்த_தேதி": "2002-07-08",
+          "மொத்த_நிலம்": "",
+          "பங்குத்_தொகை": "1",
+          "sdccb_sb_கணக்கு_எண்": "1",
+          "sdccb_kcc_கணக்கு_எண்": "1",
+          "society_sb_கணக்கு_எண்": "1",
+          "ரேஷன்_அட்டை_எண்": "1",
+          "ரேஷன்_அட்டை_வகை": "1",
+          "நிலம்1_சர்வே_எண்": "1",
+          "நிலம்2_சர்வே_எண்": "",
+          "நிலம்3_சர்வே_எண்": "",
+          "நிலம்4_சர்வே_எண்": "",
+          "நிலம்5_சர்வே_எண்": "",
+          "நிலம்6_சர்வே_எண்": "",
+          "நிலம்7_சர்வே_எண்": "",
+          "நிலம்8_சர்வே_எண்": "",
+          "நிலம்9_சர்வே_எண்": "",
+          "நிலம்10_சர்வே_எண்": "",
+          "நிலம்11_சர்வே_எண்": "",
+          "நிலம்12_சர்வே_எண்": "",
+          "நிலம்13_சர்வே_எண்": "",
+          "நிலம்14_சர்வே_எண்": "",
+          "நிலம்15_சர்வே_எண்": "",
+          "நிலம்16_சர்வே_எண்": "",
+          "நிலம்17_சர்வே_எண்": "",
+          "நிலம்18_சர்வே_எண்": "",
+          "நிலம்19_சர்வே_எண்": "",
+          "நிலம்20_சர்வே_எண்": "",
+          "வாக்காளர்_அட்டை_எண்": "1"
+        }
+      },
+      {
+        "id": "b99bf0cc-94fa-4581-9d06-d5372836b558",
+        "serialNo": "7",
+        "memberName": "sri1",
+        "fatherName": "ramesh",
+        "category": "பருத்தி - மா (0.5ac) - ₹13,900, மாந்தோப்பு (ப) (0.5ac) - ₹13,050, கடலை - மா (0.5ac) - ₹11,000",
+        "landArea": 2.469,
+        "farmerType": "MF",
+        "classification": "1",
+        "aadhaarNo": "1",
+        "accountNo": "1",
+        "phoneNo": "1",
+        "amount": 37950,
+        "date": "2025-08-20",
+        "formSections": {
+          "documents": false,
+          "friendImage": false,
+          "goldDetails": false,
+          "landDetails": true,
+          "loanDetails": true,
+          "ownProperty": false,
+          "friendDetails": true,
+          "userInformation": true
+        },
+        "goldDetails": {
+          "items": [],
+          "hasGold": false,
+          "totalItems": 0,
+          "totalValue": 0,
+          "goldSummary": {
+            "totalCount": 0,
+            "totalTypes": 0,
+            "goldRateUsed": 500,
+            "highestValue": 0,
+            "averageWeight": 0,
+            "netWeightCalculation": "நிகர எடை × தங்க விலை = நிகர தொகை",
+            "totalNetAmountSummary": 0,
+            "totalNetWeightSummary": 0
+          },
+          "marketValue": 500,
+          "totalWeight": 0,
+          "totalNetAmount": 0,
+          "totalNetWeight": 0,
+          "goldItemsDetails": []
+        },
+        "friendDetails": {
+          "acre": "",
+          "name": "ramesh",
+          "phone": "1",
+          "address": "",
+          "hasData": true,
+          "uNumber": "3",
+          "hasImage": false,
+          "imageUrl": null,
+          "fatherName": "ramesh",
+          "detailedInfo": {
+            "உ_எண்": "3",
+            "பெயர்": "ramesh",
+            "படம்_URL": null,
+            "ஏக்கர்": "",
+            "முகவரி": "",
+            "தகபெயர்": "ramesh",
+            "ஆதார்_எண்": "1",
+            "சர்வே_எண்": "1",
+            "கைபேசி_எண்": "1"
+          },
+          "surveyNumber": "1",
+          "aadhaarNumber": "1"
+        },
+        "ownProperty": {
+          "value": 0,
+          "description": "",
+          "hasProperty": false,
+          "hasPropertyData": false,
+          "mortgageDetails": {
+            "a": "",
+            "ca": "",
+            "extent": "",
+            "village": "",
+            "irrigation": "",
+            "mortgageReg": "",
+            "surveyNumber": "",
+            "guidanceValue": 0,
+            "mortgageAmount": 0,
+            "hasMortgageData": false,
+            "registrarOffice": ""
+          },
+          "propertySummary": {
+            "totalValue": 0,
+            "guidanceValue": 0,
+            "mortgageValue": 0,
+            "hasDescription": false,
+            "hasMortgageDetails": false
+          }
+        },
+        "documents": {
+          "pan": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "voter": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "ration": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "aadhaar": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "userPhoto": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "friendPhoto": {
+            "url": null,
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "documentsSummary": {
+            "totalRequired": 6,
+            "totalUploaded": 0,
+            "completionRate": 0
+          }
+        },
+        "landParcels": [
+          {
+            "acres": 2.469,
+            "hectares": 0.999,
+            "landNumber": 1,
+            "surveyNumber": "1"
+          }
+        ],
+        "selectedCrops": [
+          {
+            "crop": {
+              "motham": 27800,
+              "rokkam": 23460,
+              "uram_1": 950,
+              "uram_2": 1900,
+              "vithai": 840,
+              "crop_code": 8,
+              "thozhu_uram": 950,
+              "name_of_crop": "பருத்தி - மா",
+              "poochi_marundhu": 1600
+            },
+            "acres": 0.5,
+            "breakdown": {
+              "cents": 50,
+              "motham": 13900,
+              "rokkam": 11730,
+              "uram_1": 475,
+              "uram_2": 950,
+              "vithai": 420,
+              "perCentRate": {
+                "motham": 278,
+                "rokkam": 234.6,
+                "uram_1": 9.5,
+                "uram_2": 19,
+                "vithai": 8.4,
+                "thozhu_uram": 9.5,
+                "poochi_marundhu": 16
+              },
+              "thozhu_uram": 475,
+              "poochi_marundhu": 800
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 13900,
+            "cropName": "பருத்தி - மா"
+          },
+          {
+            "crop": {
+              "motham": 26100,
+              "rokkam": 18100,
+              "uram_1": 2275,
+              "uram_2": 4550,
+              "vithai": 0,
+              "crop_code": 7,
+              "thozhu_uram": 2275,
+              "name_of_crop": "மாந்தோப்பு (ப)",
+              "poochi_marundhu": 3450
+            },
+            "acres": 0.5,
+            "breakdown": {
+              "cents": 50,
+              "motham": 13050,
+              "rokkam": 9050,
+              "uram_1": 1137.5,
+              "uram_2": 2275,
+              "vithai": 0,
+              "perCentRate": {
+                "motham": 261,
+                "rokkam": 181,
+                "uram_1": 22.75,
+                "uram_2": 45.5,
+                "vithai": 0,
+                "thozhu_uram": 22.75,
+                "poochi_marundhu": 34.5
+              },
+              "thozhu_uram": 1137.5,
+              "poochi_marundhu": 1725
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 13050,
+            "cropName": "மாந்தோப்பு (ப)"
+          },
+          {
+            "crop": {
+              "motham": 22000,
+              "rokkam": 16500,
+              "uram_1": 550,
+              "uram_2": 1100,
+              "vithai": 3700,
+              "crop_code": 5,
+              "thozhu_uram": 550,
+              "name_of_crop": "கடலை - மா",
+              "poochi_marundhu": 700
+            },
+            "acres": 0.5,
+            "breakdown": {
+              "cents": 50,
+              "motham": 11000,
+              "rokkam": 8250,
+              "uram_1": 275,
+              "uram_2": 550,
+              "vithai": 1850,
+              "perCentRate": {
+                "motham": 220,
+                "rokkam": 165,
+                "uram_1": 5.5,
+                "uram_2": 11,
+                "vithai": 37,
+                "thozhu_uram": 5.5,
+                "poochi_marundhu": 7
+              },
+              "thozhu_uram": 275,
+              "poochi_marundhu": 350
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 11000,
+            "cropName": "கடலை - மா"
+          }
+        ],
+        "userInformation": {
+          "pan_file": null,
+          "checkboxes": {
+            "kcc": true,
+            "jewel": false,
+            "kccah": false,
+            "tractor": false
+          },
+          "user_photo": null,
+          "voter_file": null,
+          "pan_preview": null,
+          "ration_file": null,
+          "aadhaar_file": null,
+          "friend_photo": null,
+          "ஜாதி": "1",
+          "voter_preview": null,
+          "உ_எண்": "9",
+          "guarantee_type": "friend",
+          "ration_preview": null,
+          "aadhaar_preview": null,
+          "பெயர்": "sri1",
+          "principle_amount": "100000",
+          "user_photo_preview": null,
+          "முகவரி": "",
+          "வட்டம்": "1",
+          "நிலம்1_ac": "2.469",
+          "நிலம்2_ac": "",
+          "நிலம்3_ac": "",
+          "நிலம்4_ac": "",
+          "நிலம்5_ac": "",
+          "நிலம்6_ac": "",
+          "நிலம்7_ac": "",
+          "நிலம்8_ac": "",
+          "நிலம்9_ac": "",
+          "friend_photo_preview": null,
+          "நிலம்10_ac": "",
+          "நிலம்11_ac": "",
+          "நிலம்12_ac": "",
+          "நிலம்13_ac": "",
+          "நிலம்14_ac": "",
+          "நிலம்15_ac": "",
+          "நிலம்16_ac": "",
+          "நிலம்17_ac": "",
+          "நிலம்18_ac": "",
+          "நிலம்19_ac": "",
+          "நிலம்1_heh": "0.999",
+          "நிலம்20_ac": "",
+          "நிலம்2_heh": "",
+          "நிலம்3_heh": "",
+          "நிலம்4_heh": "",
+          "நிலம்5_heh": "",
+          "நிலம்6_heh": "",
+          "நிலம்7_heh": "",
+          "நிலம்8_heh": "",
+          "நிலம்9_heh": "",
+          "கிராமம்": "1",
+          "தகபெயர்": "ramesh",
+          "நிலம்10_heh": "",
+          "நிலம்11_heh": "",
+          "நிலம்12_heh": "",
+          "நிலம்13_heh": "",
+          "நிலம்14_heh": "",
+          "நிலம்15_heh": "",
+          "நிலம்16_heh": "",
+          "நிலம்17_heh": "",
+          "நிலம்18_heh": "",
+          "நிலம்19_heh": "",
+          "நிலம்20_heh": "",
+          "ஆதார்_எண்": "1",
+          "கைபேசி_எண்": "1",
+          "pan_அட்டை_எண்": "1",
+          "பிறந்த_தேதி": "2002-07-08",
+          "மொத்த_நிலம்": "",
+          "பங்குத்_தொகை": "1",
+          "sdccb_sb_கணக்கு_எண்": "1",
+          "sdccb_kcc_கணக்கு_எண்": "1",
+          "society_sb_கணக்கு_எண்": "1",
+          "ரேஷன்_அட்டை_எண்": "1",
+          "ரேஷன்_அட்டை_வகை": "1",
+          "நிலம்1_சர்வே_எண்": "1",
+          "நிலம்2_சர்வே_எண்": "",
+          "நிலம்3_சர்வே_எண்": "",
+          "நிலம்4_சர்வே_எண்": "",
+          "நிலம்5_சர்வே_எண்": "",
+          "நிலம்6_சர்வே_எண்": "",
+          "நிலம்7_சர்வே_எண்": "",
+          "நிலம்8_சர்வே_எண்": "",
+          "நிலம்9_சர்வே_எண்": "",
+          "நிலம்10_சர்வே_எண்": "",
+          "நிலம்11_சர்வே_எண்": "",
+          "நிலம்12_சர்வே_எண்": "",
+          "நிலம்13_சர்வே_எண்": "",
+          "நிலம்14_சர்வே_எண்": "",
+          "நிலம்15_சர்வே_எண்": "",
+          "நிலம்16_சர்வே_எண்": "",
+          "நிலம்17_சர்வே_எண்": "",
+          "நிலம்18_சர்வே_எண்": "",
+          "நிலம்19_சர்வே_எண்": "",
+          "நிலம்20_சர்வே_எண்": "",
+          "வாக்காளர்_அட்டை_எண்": "1"
+        }
+      },
+      {
+        "id": "f1d7cc34-1c61-47e8-906c-d4a4a180fc93",
+        "serialNo": "8",
+        "memberName": "sri10",
+        "fatherName": "ramesh",
+        "category": "நெல் (இ) (0.5ac) - ₹19,150",
+        "landArea": 86.48299999999999,
+        "farmerType": "OF",
+        "classification": "1",
+        "aadhaarNo": "1",
+        "accountNo": "1",
+        "phoneNo": "1",
+        "amount": 19150,
+        "date": "2025-08-20",
+        "formSections": {
+          "documents": false,
+          "friendImage": false,
+          "goldDetails": false,
+          "landDetails": true,
+          "loanDetails": true,
+          "ownProperty": false,
+          "friendDetails": true,
+          "userInformation": true
+        },
+        "goldDetails": {
+          "items": [],
+          "hasGold": false,
+          "totalItems": 0,
+          "totalValue": 0,
+          "goldSummary": {
+            "totalCount": 0,
+            "totalTypes": 0,
+            "goldRateUsed": 500,
+            "highestValue": 0,
+            "averageWeight": 0,
+            "netWeightCalculation": "நிகர எடை × தங்க விலை = நிகர தொகை",
+            "totalNetAmountSummary": 0,
+            "totalNetWeightSummary": 0
+          },
+          "marketValue": 500,
+          "totalWeight": 0,
+          "totalNetAmount": 0,
+          "totalNetWeight": 0,
+          "goldItemsDetails": []
+        },
+        "friendDetails": {
+          "acre": "",
+          "name": "narsima",
+          "phone": "1",
+          "address": "",
+          "hasData": true,
+          "uNumber": "4",
+          "hasImage": false,
+          "imageUrl": null,
+          "fatherName": "ramesh",
+          "detailedInfo": {
+            "உ_எண்": "4",
+            "பெயர்": "narsima",
+            "படம்_URL": null,
+            "ஏக்கர்": "",
+            "முகவரி": "",
+            "தகபெயர்": "ramesh",
+            "ஆதார்_எண்": "1",
+            "சர்வே_எண்": "1",
+            "கைபேசி_எண்": "1"
+          },
+          "surveyNumber": "1",
+          "aadhaarNumber": "1"
+        },
+        "ownProperty": {
+          "value": 0,
+          "description": "",
+          "hasProperty": false,
+          "hasPropertyData": false,
+          "mortgageDetails": {
+            "a": "",
+            "ca": "",
+            "extent": "",
+            "village": "",
+            "irrigation": "",
+            "mortgageReg": "",
+            "surveyNumber": "",
+            "guidanceValue": 0,
+            "mortgageAmount": 0,
+            "hasMortgageData": false,
+            "registrarOffice": ""
+          },
+          "propertySummary": {
+            "totalValue": 0,
+            "guidanceValue": 0,
+            "mortgageValue": 0,
+            "hasDescription": false,
+            "hasMortgageDetails": false
+          }
+        },
+        "documents": {
+          "pan": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "voter": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "ration": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "aadhaar": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "userPhoto": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "friendPhoto": {
+            "url": null,
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "documentsSummary": {
+            "totalRequired": 6,
+            "totalUploaded": 0,
+            "completionRate": 0
+          }
+        },
+        "landParcels": [
+          {
+            "acres": 2.469,
+            "hectares": 0.999,
+            "landNumber": 1,
+            "surveyNumber": "1"
+          },
+          {
+            "acres": 84.014,
+            "hectares": 34,
+            "landNumber": 2,
+            "surveyNumber": "2"
+          }
+        ],
+        "selectedCrops": [
+          {
+            "crop": {
+              "motham": 38300,
+              "rokkam": 31350,
+              "uram_1": 2400,
+              "uram_2": 4800,
+              "vithai": 850,
+              "crop_code": 1,
+              "thozhu_uram": 2400,
+              "name_of_crop": "நெல் (இ)",
+              "poochi_marundhu": 1300
+            },
+            "acres": 0.5,
+            "breakdown": {
+              "cents": 50,
+              "motham": 19150,
+              "rokkam": 15675,
+              "uram_1": 1200,
+              "uram_2": 2400,
+              "vithai": 425,
+              "perCentRate": {
+                "motham": 383,
+                "rokkam": 313.5,
+                "uram_1": 24,
+                "uram_2": 48,
+                "vithai": 8.5,
+                "thozhu_uram": 24,
+                "poochi_marundhu": 13
+              },
+              "thozhu_uram": 1200,
+              "poochi_marundhu": 650
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 19150,
+            "cropName": "நெல் (இ)"
+          }
+        ],
+        "userInformation": {
+          "pan_file": null,
+          "checkboxes": {
+            "kcc": true,
+            "jewel": false,
+            "kccah": false,
+            "tractor": false
+          },
+          "user_photo": null,
+          "voter_file": null,
+          "pan_preview": null,
+          "ration_file": null,
+          "aadhaar_file": null,
+          "friend_photo": null,
+          "ஜாதி": "1",
+          "voter_preview": null,
+          "உ_எண்": "10",
+          "guarantee_type": "friend",
+          "ration_preview": null,
+          "aadhaar_preview": null,
+          "பெயர்": "sri10",
+          "principle_amount": "100000",
+          "user_photo_preview": null,
+          "முகவரி": "",
+          "வட்டம்": "1",
+          "நிலம்1_ac": "2.469",
+          "நிலம்2_ac": "84.014",
+          "நிலம்3_ac": "",
+          "நிலம்4_ac": "",
+          "நிலம்5_ac": "",
+          "நிலம்6_ac": "",
+          "நிலம்7_ac": "",
+          "நிலம்8_ac": "",
+          "நிலம்9_ac": "",
+          "friend_photo_preview": null,
+          "நிலம்10_ac": "",
+          "நிலம்11_ac": "",
+          "நிலம்12_ac": "",
+          "நிலம்13_ac": "",
+          "நிலம்14_ac": "",
+          "நிலம்15_ac": "",
+          "நிலம்16_ac": "",
+          "நிலம்17_ac": "",
+          "நிலம்18_ac": "",
+          "நிலம்19_ac": "",
+          "நிலம்1_heh": "0.999",
+          "நிலம்20_ac": "",
+          "நிலம்2_heh": "34",
+          "நிலம்3_heh": "",
+          "நிலம்4_heh": "",
+          "நிலம்5_heh": "",
+          "நிலம்6_heh": "",
+          "நிலம்7_heh": "",
+          "நிலம்8_heh": "",
+          "நிலம்9_heh": "",
+          "கிராமம்": "1",
+          "தகபெயர்": "ramesh",
+          "நிலம்10_heh": "",
+          "நிலம்11_heh": "",
+          "நிலம்12_heh": "",
+          "நிலம்13_heh": "",
+          "நிலம்14_heh": "",
+          "நிலம்15_heh": "",
+          "நிலம்16_heh": "",
+          "நிலம்17_heh": "",
+          "நிலம்18_heh": "",
+          "நிலம்19_heh": "",
+          "நிலம்20_heh": "",
+          "ஆதார்_எண்": "1",
+          "கைபேசி_எண்": "1",
+          "pan_அட்டை_எண்": "1",
+          "பிறந்த_தேதி": "2002-07-08",
+          "மொத்த_நிலம்": "",
+          "பங்குத்_தொகை": "1",
+          "sdccb_sb_கணக்கு_எண்": "1",
+          "sdccb_kcc_கணக்கு_எண்": "1",
+          "society_sb_கணக்கு_எண்": "1",
+          "ரேஷன்_அட்டை_எண்": "1",
+          "ரேஷன்_அட்டை_வகை": "1",
+          "நிலம்1_சர்வே_எண்": "1",
+          "நிலம்2_சர்வே_எண்": "2",
+          "நிலம்3_சர்வே_எண்": "",
+          "நிலம்4_சர்வே_எண்": "",
+          "நிலம்5_சர்வே_எண்": "",
+          "நிலம்6_சர்வே_எண்": "",
+          "நிலம்7_சர்வே_எண்": "",
+          "நிலம்8_சர்வே_எண்": "",
+          "நிலம்9_சர்வே_எண்": "",
+          "நிலம்10_சர்வே_எண்": "",
+          "நிலம்11_சர்வே_எண்": "",
+          "நிலம்12_சர்வே_எண்": "",
+          "நிலம்13_சர்வே_எண்": "",
+          "நிலம்14_சர்வே_எண்": "",
+          "நிலம்15_சர்வே_எண்": "",
+          "நிலம்16_சர்வே_எண்": "",
+          "நிலம்17_சர்வே_எண்": "",
+          "நிலம்18_சர்வே_எண்": "",
+          "நிலம்19_சர்வே_எண்": "",
+          "நிலம்20_சர்வே_எண்": "",
+          "வாக்காளர்_அட்டை_எண்": "1"
+        }
+      },
+      {
+        "id": "5530d791-727c-4c65-a278-e143b9dc0f65",
+        "serialNo": "9",
+        "memberName": "ramesh",
+        "fatherName": "giri",
+        "category": "நெல் (இ) (0.5ac) - ₹19,150",
+        "landArea": 2.46,
+        "farmerType": "MF",
+        "classification": "bc",
+        "aadhaarNo": "123456789101",
+        "accountNo": "12",
+        "phoneNo": "1234567899",
+        "amount": 19150,
+        "date": "2025-08-28",
+        "formSections": {
+          "documents": false,
+          "friendImage": false,
+          "goldDetails": false,
+          "landDetails": true,
+          "loanDetails": true,
+          "ownProperty": false,
+          "friendDetails": true,
+          "userInformation": true
+        },
+        "goldDetails": {
+          "items": [],
+          "hasGold": false,
+          "totalItems": 0,
+          "totalValue": 0,
+          "goldSummary": {
+            "totalCount": 0,
+            "totalTypes": 0,
+            "goldRateUsed": 500,
+            "highestValue": 0,
+            "averageWeight": 0,
+            "netWeightCalculation": "நிகர எடை × தங்க விலை = நிகர தொகை",
+            "totalNetAmountSummary": 0,
+            "totalNetWeightSummary": 0
+          },
+          "marketValue": 500,
+          "totalWeight": 0,
+          "totalNetAmount": 0,
+          "totalNetWeight": 0,
+          "goldItemsDetails": []
+        },
+        "friendDetails": {
+          "acre": "2.46",
+          "name": "ramesh",
+          "phone": "1234567899",
+          "address": "salem",
+          "hasData": true,
+          "uNumber": "1234",
+          "hasImage": false,
+          "imageUrl": null,
+          "fatherName": "giri",
+          "detailedInfo": {
+            "உ_எண்": "1234",
+            "பெயர்": "ramesh",
+            "படம்_URL": null,
+            "ஏக்கர்": "2.46",
+            "முகவரி": "salem",
+            "தகபெயர்": "giri",
+            "ஆதார்_எண்": "123456789101",
+            "சர்வே_எண்": "1",
+            "கைபேசி_எண்": "1234567899"
+          },
+          "surveyNumber": "1",
+          "aadhaarNumber": "123456789101"
+        },
+        "ownProperty": {
+          "value": 0,
+          "description": "",
+          "hasProperty": false,
+          "hasPropertyData": false,
+          "mortgageDetails": {
+            "a": "",
+            "ca": "",
+            "extent": "",
+            "village": "",
+            "irrigation": "",
+            "mortgageReg": "",
+            "surveyNumber": "",
+            "guidanceValue": 0,
+            "mortgageAmount": 0,
+            "hasMortgageData": false,
+            "registrarOffice": ""
+          },
+          "propertySummary": {
+            "totalValue": 0,
+            "guidanceValue": 0,
+            "mortgageValue": 0,
+            "hasDescription": false,
+            "hasMortgageDetails": false
+          }
+        },
+        "documents": {
+          "pan": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "voter": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "ration": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "aadhaar": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "userPhoto": {
+            "file": {},
+            "preview": "https://1130c0de-d35e-4d7f-9344-5d76dc33e727-00-1fwxrjf84dit2.spock.replit.dev/uploads/file-1756394344710-212620639.jpg",
+            "uploaded": true
+          },
+          "friendPhoto": {
+            "url": null,
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "documentsSummary": {
+            "totalRequired": 6,
+            "totalUploaded": 1,
+            "completionRate": 16.666666666666664
+          }
+        },
+        "landParcels": [
+          {
+            "acres": 2.46,
+            "hectares": 0.996,
+            "landNumber": 1,
+            "surveyNumber": "1"
+          }
+        ],
+        "selectedCrops": [
+          {
+            "crop": {
+              "motham": 38300,
+              "rokkam": 31350,
+              "uram_1": 2400,
+              "uram_2": 4800,
+              "vithai": 850,
+              "crop_code": 1,
+              "thozhu_uram": 2400,
+              "name_of_crop": "நெல் (இ)",
+              "poochi_marundhu": 1300
+            },
+            "acres": 0.5,
+            "breakdown": {
+              "cents": 50,
+              "motham": 19150,
+              "rokkam": 15675,
+              "uram_1": 1200,
+              "uram_2": 2400,
+              "vithai": 425,
+              "perCentRate": {
+                "motham": 383,
+                "rokkam": 313.5,
+                "uram_1": 24,
+                "uram_2": 48,
+                "vithai": 8.5,
+                "thozhu_uram": 24,
+                "poochi_marundhu": 13
+              },
+              "thozhu_uram": 1200,
+              "poochi_marundhu": 650
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 19150,
+            "cropName": "நெல் (இ)"
+          }
+        ],
+        "userInformation": {
+          "pan_file": null,
+          "checkboxes": {
+            "kcc": true,
+            "jewel": false,
+            "kccah": false,
+            "tractor": false
+          },
+          "user_photo": {},
+          "voter_file": null,
+          "pan_preview": null,
+          "ration_file": null,
+          "aadhaar_file": null,
+          "friend_photo": null,
+          "ஜாதி": "bc",
+          "voter_preview": null,
+          "உ_எண்": "1200",
+          "guarantee_type": "friend",
+          "ration_preview": null,
+          "aadhaar_preview": null,
+          "பெயர்": "ramesh",
+          "principle_amount": "100000",
+          "user_photo_preview": "https://1130c0de-d35e-4d7f-9344-5d76dc33e727-00-1fwxrjf84dit2.spock.replit.dev/uploads/file-1756394344710-212620639.jpg",
+          "முகவரி": "1/301",
+          "வட்டம்": "salem",
+          "நிலம்1_ac": "2.46",
+          "நிலம்2_ac": "",
+          "நிலம்3_ac": "",
+          "நிலம்4_ac": "",
+          "நிலம்5_ac": "",
+          "நிலம்6_ac": "",
+          "நிலம்7_ac": "",
+          "நிலம்8_ac": "",
+          "நிலம்9_ac": "",
+          "friend_photo_preview": null,
+          "நிலம்10_ac": "",
+          "நிலம்11_ac": "",
+          "நிலம்12_ac": "",
+          "நிலம்13_ac": "",
+          "நிலம்14_ac": "",
+          "நிலம்15_ac": "",
+          "நிலம்16_ac": "",
+          "நிலம்17_ac": "",
+          "நிலம்18_ac": "",
+          "நிலம்19_ac": "",
+          "நிலம்1_heh": "0.996",
+          "நிலம்20_ac": "",
+          "நிலம்2_heh": "",
+          "நிலம்3_heh": "",
+          "நிலம்4_heh": "",
+          "நிலம்5_heh": "",
+          "நிலம்6_heh": "",
+          "நிலம்7_heh": "",
+          "நிலம்8_heh": "",
+          "நிலம்9_heh": "",
+          "கிராமம்": "salem",
+          "தகபெயர்": "giri",
+          "நிலம்10_heh": "",
+          "நிலம்11_heh": "",
+          "நிலம்12_heh": "",
+          "நிலம்13_heh": "",
+          "நிலம்14_heh": "",
+          "நிலம்15_heh": "",
+          "நிலம்16_heh": "",
+          "நிலம்17_heh": "",
+          "நிலம்18_heh": "",
+          "நிலம்19_heh": "",
+          "நிலம்20_heh": "",
+          "ஆதார்_எண்": "123456789101",
+          "கைபேசி_எண்": "1234567899",
+          "pan_அட்டை_எண்": "ABCDE1234S",
+          "பிறந்த_தேதி": "2002-07-08",
+          "மொத்த_நிலம்": "",
+          "பங்குத்_தொகை": "1",
+          "sdccb_sb_கணக்கு_எண்": "1",
+          "sdccb_kcc_கணக்கு_எண்": "12",
+          "society_sb_கணக்கு_எண்": "1",
+          "ரேஷன்_அட்டை_எண்": "1",
+          "ரேஷன்_அட்டை_வகை": "1",
+          "நிலம்1_சர்வே_எண்": "1",
+          "நிலம்2_சர்வே_எண்": "",
+          "நிலம்3_சர்வே_எண்": "",
+          "நிலம்4_சர்வே_எண்": "",
+          "நிலம்5_சர்வே_எண்": "",
+          "நிலம்6_சர்வே_எண்": "",
+          "நிலம்7_சர்வே_எண்": "",
+          "நிலம்8_சர்வே_எண்": "",
+          "நிலம்9_சர்வே_எண்": "",
+          "நிலம்10_சர்வே_எண்": "",
+          "நிலம்11_சர்வே_எண்": "",
+          "நிலம்12_சர்வே_எண்": "",
+          "நிலம்13_சர்வே_எண்": "",
+          "நிலம்14_சர்வே_எண்": "",
+          "நிலம்15_சர்வே_எண்": "",
+          "நிலம்16_சர்வே_எண்": "",
+          "நிலம்17_சர்வே_எண்": "",
+          "நிலம்18_சர்வே_எண்": "",
+          "நிலம்19_சர்வே_எண்": "",
+          "நிலம்20_சர்வே_எண்": "",
+          "வாக்காளர்_அட்டை_எண்": "1"
+        }
+      },
+      {
+        "id": "d6d39970-779f-4c69-aa5e-d8df673ca206",
+        "serialNo": "10",
+        "memberName": "giri",
+        "fatherName": "ramesh",
+        "category": "நெல் (இ) (1ac) - ₹38,300",
+        "landArea": 2.469,
+        "farmerType": "MF",
+        "classification": "1",
+        "aadhaarNo": "1",
+        "accountNo": "1",
+        "phoneNo": "1",
+        "amount": 38300,
+        "date": "2025-08-20",
+        "formSections": {
+          "documents": false,
+          "friendImage": false,
+          "goldDetails": false,
+          "landDetails": true,
+          "loanDetails": true,
+          "ownProperty": false,
+          "friendDetails": true,
+          "userInformation": true
+        },
+        "goldDetails": {
+          "items": [],
+          "hasGold": false,
+          "totalItems": 0,
+          "totalValue": 0,
+          "goldSummary": {
+            "totalCount": 0,
+            "totalTypes": 0,
+            "goldRateUsed": 500,
+            "highestValue": 0,
+            "averageWeight": 0,
+            "netWeightCalculation": "நிகர எடை × தங்க விலை = நிகர தொகை",
+            "totalNetAmountSummary": 0,
+            "totalNetWeightSummary": 0
+          },
+          "marketValue": 500,
+          "totalWeight": 0,
+          "totalNetAmount": 0,
+          "totalNetWeight": 0,
+          "goldItemsDetails": []
+        },
+        "friendDetails": {
+          "acre": "123",
+          "name": "keri r",
+          "phone": "07397613404",
+          "address": "1/302",
+          "hasData": true,
+          "uNumber": "12",
+          "hasImage": false,
+          "imageUrl": null,
+          "fatherName": "ramesh",
+          "detailedInfo": {
+            "உ_எண்": "12",
+            "பெயர்": "keri r",
+            "படம்_URL": null,
+            "ஏக்கர்": "123",
+            "முகவரி": "1/302",
+            "தகபெயர்": "ramesh",
+            "ஆதார்_எண்": "12",
+            "சர்வே_எண்": "1/321",
+            "கைபேசி_எண்": "07397613404"
+          },
+          "surveyNumber": "1/321",
+          "aadhaarNumber": "12"
+        },
+        "ownProperty": {
+          "value": 0,
+          "description": "",
+          "hasProperty": false,
+          "hasPropertyData": false,
+          "mortgageDetails": {
+            "a": "",
+            "ca": "",
+            "extent": "",
+            "village": "",
+            "irrigation": "",
+            "mortgageReg": "",
+            "surveyNumber": "",
+            "guidanceValue": 0,
+            "mortgageAmount": 0,
+            "hasMortgageData": false,
+            "registrarOffice": ""
+          },
+          "propertySummary": {
+            "totalValue": 0,
+            "guidanceValue": 0,
+            "mortgageValue": 0,
+            "hasDescription": false,
+            "hasMortgageDetails": false
+          }
+        },
+        "documents": {
+          "pan": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "voter": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "ration": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "aadhaar": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "userPhoto": {
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "friendPhoto": {
+            "url": null,
+            "file": null,
+            "preview": null,
+            "uploaded": false
+          },
+          "documentsSummary": {
+            "totalRequired": 6,
+            "totalUploaded": 0,
+            "completionRate": 0
+          }
+        },
+        "landParcels": [
+          {
+            "acres": 2.469,
+            "hectares": 0.999,
+            "landNumber": 1,
+            "surveyNumber": "1"
+          }
+        ],
+        "selectedCrops": [
+          {
+            "crop": {
+              "motham": 38300,
+              "rokkam": 31350,
+              "uram_1": 2400,
+              "uram_2": 4800,
+              "vithai": 850,
+              "crop_code": 1,
+              "thozhu_uram": 2400,
+              "name_of_crop": "நெல் (இ)",
+              "poochi_marundhu": 1300
+            },
+            "acres": 1,
+            "breakdown": {
+              "cents": 100,
+              "motham": 38300,
+              "rokkam": 31350,
+              "uram_1": 2400,
+              "uram_2": 4800,
+              "vithai": 850,
+              "perCentRate": {
+                "motham": 383,
+                "rokkam": 313.5,
+                "uram_1": 24,
+                "uram_2": 48,
+                "vithai": 8.5,
+                "thozhu_uram": 24,
+                "poochi_marundhu": 13
+              },
+              "thozhu_uram": 2400,
+              "poochi_marundhu": 1300
+            },
+            "surveyNumber": "",
+            "eligibleAmount": 38300,
+            "cropName": "நெல் (இ)"
+          }
+        ],
+        "userInformation": {
+          "pan_file": null,
+          "checkboxes": {
+            "kcc": true,
+            "jewel": false,
+            "kccah": false,
+            "tractor": false
+          },
+          "user_photo": null,
+          "voter_file": null,
+          "pan_preview": null,
+          "ration_file": null,
+          "aadhaar_file": null,
+          "friend_photo": null,
+          "ஜாதி": "1",
+          "voter_preview": null,
+          "உ_எண்": "1",
+          "guarantee_type": "friend",
+          "ration_preview": null,
+          "aadhaar_preview": null,
+          "பெயர்": "giri",
+          "principle_amount": "100000",
+          "user_photo_preview": null,
+          "முகவரி": "123",
+          "வட்டம்": "1",
+          "நிலம்1_ac": "2.469",
+          "நிலம்2_ac": "",
+          "நிலம்3_ac": "",
+          "நிலம்4_ac": "",
+          "நிலம்5_ac": "",
+          "நிலம்6_ac": "",
+          "நிலம்7_ac": "",
+          "நிலம்8_ac": "",
+          "நிலம்9_ac": "",
+          "friend_photo_preview": null,
+          "நிலம்10_ac": "",
+          "நிலம்11_ac": "",
+          "நிலம்12_ac": "",
+          "நிலம்13_ac": "",
+          "நிலம்14_ac": "",
+          "நிலம்15_ac": "",
+          "நிலம்16_ac": "",
+          "நிலம்17_ac": "",
+          "நிலம்18_ac": "",
+          "நிலம்19_ac": "",
+          "நிலம்1_heh": "0.999",
+          "நிலம்20_ac": "",
+          "நிலம்2_heh": "",
+          "நிலம்3_heh": "",
+          "நிலம்4_heh": "",
+          "நிலம்5_heh": "",
+          "நிலம்6_heh": "",
+          "நிலம்7_heh": "",
+          "நிலம்8_heh": "",
+          "நிலம்9_heh": "",
+          "கிராமம்": "1",
+          "தகபெயர்": "ramesh",
+          "நிலம்10_heh": "",
+          "நிலம்11_heh": "",
+          "நிலம்12_heh": "",
+          "நிலம்13_heh": "",
+          "நிலம்14_heh": "",
+          "நிலம்15_heh": "",
+          "நிலம்16_heh": "",
+          "நிலம்17_heh": "",
+          "நிலம்18_heh": "",
+          "நிலம்19_heh": "",
+          "நிலம்20_heh": "",
+          "ஆதார்_எண்": "1",
+          "கைபேசி_எண்": "1",
+          "pan_அட்டை_எண்": "1",
+          "பிறந்த_தேதி": "2002-07-08",
+          "மொத்த_நிலம்": "",
+          "பங்குத்_தொகை": "1",
+          "sdccb_sb_கணக்கு_எண்": "1",
+          "sdccb_kcc_கணக்கு_எண்": "1",
+          "society_sb_கணக்கு_எண்": "1",
+          "ரேஷன்_அட்டை_எண்": "1",
+          "ரேஷன்_அட்டை_வகை": "1",
+          "நிலம்1_சர்வே_எண்": "1",
+          "நிலம்2_சர்வே_எண்": "",
+          "நிலம்3_சர்வே_எண்": "",
+          "நிலம்4_சர்வே_எண்": "",
+          "நிலம்5_சர்வே_எண்": "",
+          "நிலம்6_சர்வே_எண்": "",
+          "நிலம்7_சர்வே_எண்": "",
+          "நிலம்8_சர்வே_எண்": "",
+          "நிலம்9_சர்வே_எண்": "",
+          "நிலம்10_சர்வே_எண்": "",
+          "நிலம்11_சர்வே_எண்": "",
+          "நிலம்12_சர்வே_எண்": "",
+          "நிலம்13_சர்வே_எண்": "",
+          "நிலம்14_சர்வே_எண்": "",
+          "நிலம்15_சர்வே_எண்": "",
+          "நிலம்16_சர்வே_எண்": "",
+          "நிலம்17_சர்வே_எண்": "",
+          "நிலம்18_சர்வே_எண்": "",
+          "நிலம்19_சர்வே_எண்": "",
+          "நிலம்20_சர்வே_எண்": "",
+          "வாக்காளர்_அட்டை_எண்": "1"
+        }
+      }
+    ],
+    "financial": {
+      "transitAccount": 840000,
+      "loanComponents": {
+        "seeds": 794000,
+        "fertilizer": 46000,
+        "pesticide": 0,
+        "insurance": 0,
+        "others": 0
+      },
+      "total": 840000
+    },
+    "cropDetails": {
+      "cropName": "பந்தல் அவரை",
+      "extent": 10.8,
+      "expenses": {
+        "cash": 311435,
+        "seeds": 11592.5,
+        "pesticide": 14920,
+        "fertilizer": 86540,
+        "others": 0,
+        "insurance": 0
+      },
+      "total": 424487.5,
+      "cropsWithAmounts": "பந்தல் அவரை (0.8ac) - ₹28,160, பருத்தி-BT ரகம் (0.5ac) - ₹19,850, பருத்தி - மா (0.5ac) - ₹13,900, நெல் (இ) (0.5ac) - ₹19,150, நெல் (இ) (0.5ac) - ₹19,150, நெல் (இ) (0.5ac) - ₹19,150, நெல் (இ) (0.5ac) - ₹19,150, நெல் (இ) (0.5ac) - ₹19,150, நெல் (இ) (0.5ac) - ₹19,150, நெல் (இ) (0.5ac) - ₹19,150, நெல் (இ) (0.5ac) - ₹19,150, நெல் (இ) (0.5ac) - ₹19,150, நெல் (இ) (0.5ac) - ₹19,150, குச்சி - மா (0.5ac) - ₹13,257.5, பருத்தி - மா (0.5ac) - ₹13,900, மாந்தோப்பு (ப) (0.5ac) - ₹13,050, கடலை - மா (0.5ac) - ₹11,000, நெல் (இ) (0.5ac) - ₹19,150, நெல் (இ) (0.5ac) - ₹19,150, நெல் (இ) (1ac) - ₹38,300"
+    },
+    "settings": {
+      "organizationName": "S.1374 மருது ஞ்சாவடி தொடர்க்க வேளாண்மை கூட்டுறவு கடன் சங்கம்",
+      "address": "மருது ஞ்சாவடிஅஞ்சல், சங்கப்பிரி வட்டம், சேலம் மாவட்டம் - 637103",
+      "date": "2025ம் வருடம் ஜூலை மாதம் நே தேதி",
+      "meetingDetails": "S.1374 மருது ஞ்சாவடி தொடர்க்க வேளாண்மை கூட்டுறவு கடன் சங்கம் செயலாளர் நடத்திய கூட்டம்",
+      "accountNumber": "716417262"
+    },
+    "goldDetails": {
+      "items": [
+        {
+          "type": "chain",
+          "alloy": "20",
+          "count": 1,
+          "weight": 10,
+          "netAmount": 5000,
+          "netWeight": 1
+        },
+        {
+          "type": "chain",
+          "alloy": "1",
+          "count": 1,
+          "weight": 10,
+          "netAmount": 4500,
+          "netWeight": 9
+        }
+      ],
+      "hasGold": true,
+      "totalItems": 2,
+      "totalValue": 100000,
+      "goldSummary": {
+        "totalCount": 2,
+        "totalTypes": 1,
+        "highestValue": 0,
+        "averageWeight": 10
+      },
+      "marketValue": 6000,
+      "totalWeight": 20,
+      "goldItemsDetails": [
+        {
+          "type": "chain",
+          "alloy": "20",
+          "count": 1,
+          "value": 50000,
+          "weight": 10,
+          "netAmount": 5000,
+          "netWeight": 1,
+          "itemNumber": 1,
+          "totalWeight": 10
+        },
+        {
+          "type": "chain",
+          "alloy": "1",
+          "count": 1,
+          "value": 50000,
+          "weight": 10,
+          "netAmount": 4500,
+          "netWeight": 9,
+          "itemNumber": 1,
+          "totalWeight": 10
+        }
+      ]
+    },
+    "friendDetails": {
+      "acre": "4.46",
+      "name": "tha",
+      "phone": "1234567899",
+      "address": "12",
+      "hasData": true,
+      "uNumber": "12",
+      "hasImage": false,
+      "imageUrl": "",
+      "fatherName": "ramesh",
+      "detailedInfo": {
+        "உ_எண்": "12",
+        "பெயர்": "tha",
+        "படம்_URL": null,
+        "ஏக்கர்": "4.46",
+        "முகவரி": "12",
+        "தகபெயர்": "ramesh",
+        "ஆதார்_எண்": "122222222222",
+        "சர்வே_எண்": "1, 1/302, 1/303",
+        "கைபேசி_எண்": "1234567899"
+      },
+      "surveyNumber": "1, 1/302, 1/303",
+      "aadhaarNumber": "122222222222"
+    },
+    "ownProperty": {
+      "value": 0,
+      "description": "",
+      "hasProperty": true,
+      "hasPropertyData": true,
+      "mortgageDetails": {
+        "hasMortgageData": true,
+        "mortgageAmount": 0,
+        "guidanceValue": 0,
+        "village": "",
+        "surveyNumber": "",
+        "extent": "",
+        "irrigation": "",
+        "mortgageReg": "",
+        "registrarOffice": "",
+        "a": "",
+        "ca": ""
+      },
+      "propertySummary": {
+        "totalValue": 0,
+        "guidanceValue": 0,
+        "mortgageValue": 0,
+        "hasDescription": false,
+        "hasMortgageDetails": true
+      }
+    }
+  }
+}
